@@ -1,0 +1,812 @@
+[
+  {
+    "问题": "templateGuid",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "=807f6107-f051-4bb8-8230-ef5b5eb580d4&client_id=platform",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/login?request_id=25d18c63-0e26-40b1-879a-",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "{\"base\":{\"u\":\"27712d2b23f5100-cd5000711b-",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/32010650/81a01160-efa5-454f-509a-",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "Safari/537.36 Edg/146.0.0.0\",\"tv\":\"1.0.1-",
+    "严重性": "",
+    "URL": "https://fast-logstore.mypaas.com/report/UKI255D2g0f9eYbi-",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "[{\"e\":\"page\",\"d\":\"emds.sqemc.com:8443\",\"pg\":\"/std/32010603/b47482f8-",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/api/Mysoft.PubPlatform.Message.AppServices",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "高 缺少必需的CSP指令",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/dp/api/released_dashboard_chart/chart/data",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "高 https://emds.sqemc.com:8443/api/03011407/setting/globalCss",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/api/03011407/setting/globalCss",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "中 https://emds.sqemc.com:8443/dp/bi-visual/app/index/11111111-0000-0000-0000-000000000220",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/dp/bi-visual/app/index/11111111-0000-0000-0000-000000000220",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   1   /   1",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/dp/api/released_dashboard_chart/chart/data",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   1   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/auth/oauth2/authorize",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"advancedFilterConditions\": [",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   3   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/pub/03011407/topNav/getMessageCount",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Referer: https://emds.sqemc.com:8443/std/03011401/08dc5cec-6593-4af6-8de4-8bf200fca00a",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/03011401/08dc5cec-6593-4af6-8de4-8bf200fca00a",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   4   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "X-Requested-With: XMLHttpRequest",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/32010650/81a01160-efa5-454f-509a-08da4c3076e6?nav_code=10407&sub_nav_code=10693",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   5   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "x-req-signature: GP0/zKbTFBS+EyWT+xQAyI51/wckOkzV3O+9mNPE0Kg=",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/32010650/81a01160-efa5-454f-509a-08da4c3076e6?nav_code=10407&sub_nav_code=10693",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   6   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "pe=&_mp_version=8932817010283511103&refFilterHasNoData=true HTTP/1.1",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/32010650/81a01160-efa5-454f-509a-08da4c3076e6?nav_code=10407&sub_nav_code=10693",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   7   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "08da7feb73d1&_mp_controlAppCode=3201&_mp_controlFunctionPageId=c727ddf6-b74c-47dd-233f-",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/32010650/81a01160-efa5-454f-509a-08da4c3076e6?nav_code=10407&sub_nav_code=10693",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"idField\": \"MoneyPlanDeptGUID\",",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   9   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "F00z6D3fyTDN_qRiDPjS3SL9bYFSCiGi6gm_SEBCyuK-",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"idField\": \"MoneyPlanDeptGUID\",",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   11   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "F00z6D3fyTDN_qRiDPjS3SL9bYFSCiGi6gm_SEBCyuK-",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"advancedFilterConditions\": [",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   13   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/32010650/MoneyPlanSettings/GetFianFinancePlanSettings",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Sec-Fetch-Mode: cors",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/32010650/81a01160-efa5-454f-509a-08da4c3076e6?nav_code=10407&sub_nav_code=10693",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   14   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "ct: 161ec88bb1a2e62e0,fb54c7-0e4e64-01-ab1490-d84a6c9fcdd",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   15   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"field\": \"MonthDay\",",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   16   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/32010604/MoneyPlanReportGroup/GetMoneyPlanGroupApprovalData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "sec-ch-ua-platform: \"Windows\"",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   17   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/32010650/MoneyPlanSettings/GetMoneyPlanParamValue",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Host: emds.sqemc.com:8443",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   18   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/32010650/MoneyPlanSettings/GetMoneyPlanParamValue",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Host: emds.sqemc.com:8443",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"idField\": \"MoneyPlanDeptGUID\",",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   20   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/03011407/setting/page/config",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Date: Thu, 16 Apr 2026 07:05:21 GMT",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppCardAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppCardAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"functionCode\": \"02201603\",",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   22   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/02209901/Common/enableRiskMain",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "JrCNYQ7PTlE5aiPjVjHjykHdrDBtdR4qjBBNB-",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   23   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/02200201/Provider/enableYcg",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "JrCNYQ7PTlE5aiPjVjHjykHdrDBtdR4qjBBNB-",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   24   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppCardAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Accept-Language: en-US",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/02201603/08daf383-e025-4769-846d-c6ac16e3e78b?nav_code=14145&sub_nav_code=14166",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppCardAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppCardAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"functionCode\": \"18446744073709551617\",",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   26   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "F00z6D3fyTDN_qRiDPjS3SL9bYFSCiGi6gm_SEBCyuK-",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   27   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "F00z6D3fyTDN_qRiDPjS3SL9bYFSCiGi6gm_SEBCyuK-",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   28   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Sec-Fetch-Dest: empty",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/02200307/08da8cc4-94cb-4005-8018-a598d6cb9d36?nav_code=14145&sub_nav_code=14169",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   29   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "X-Requested-With: XMLHttpRequest",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/02200307/08da8cc4-94cb-4005-8018-a598d6cb9d36?nav_code=14145&sub_nav_code=14169",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   30   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/02201601/KhRule/GetUsedProviderTypeInfo",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "x-req-timestamp: 1776314236380",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   31   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/02201601/KhRule/GetKhRuleList",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "X-Page-RequestId: {61f15c3833db4115b53a405d93cbd526}",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   32   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "08da7feb73d1&_mp_controlAppCode=0220&_mp_controlFunctionPageId=c727ddf6-b74c-47dd-233f-",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/std/02200307/08da8cc4-94cb-4005-8018-a598d6cb9d36?nav_code=14145&sub_nav_code=14169",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   33   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/02200201/ProviderGlobalSearch/SetCacheManager",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "POST /api/99999999999999999999/ProviderGlobalSearch/SetCacheManager HTTP/1.1",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/api/02200201/ProviderGlobalSearch/SetCacheManager",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/api/02200201/ProviderGlobalSearch/SetCacheManager",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   35   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/02200201/ProviderGlobalSearch/SetExportParam",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   36   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/Mysoft.Map6.Modeling.AppServices.Controls.ProjectTreeAppService/GetProjectSelect",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"isFirstLoad\": true,",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   37   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/Mysoft.Map6.Modeling.AppServices.Controls.ProjectTreeAppService/GetProjectSelect",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "x-my-login-site: fa4095c3-8fe3-11ec-ae49-fa163eb3dbe3",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   38   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/Mysoft.Map6.Modeling.AppServices.Controls.ProjectTreeAppService/GetProjectSelect",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "X-Requested-With: XMLHttpRequest",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "->\"param\"->\"inherit\" (Parameter)",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/api/Mysoft.Map6.Modeling.AppServices.Controls.ProjectTreeAppService/GetProjectSelect",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   40   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/Mysoft.Map6.Modeling.AppServices.Controls.ProjectTreeAppService/GetProjectSelect",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "\"filterType\": 12,",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   41   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "F00z6D3fyTDN_qRiDPjS3SL9bYFSCiGi6gm_SEBCyuK-",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "问题   42   /   53",
+    "严重性": "严重性：",
+    "URL": "https://emds.sqemc.com:8443/api/03011407/setting/globalCss",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  },
+  {
+    "问题": "Content-Length: 0",
+    "严重性": "",
+    "URL": "https://*.sqemc.com:8443",
+    "实体": "",
+    "风险": "",
+    "原因": "",
+    "CVSS": ""
+  },
+  {
+    "问题": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "严重性": "",
+    "URL": "https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData",
+    "实体": "实体：",
+    "风险": "风险：",
+    "原因": "原因：",
+    "CVSS": ""
+  }
+]

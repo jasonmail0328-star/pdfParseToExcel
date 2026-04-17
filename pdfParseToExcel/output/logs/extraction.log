@@ -1,0 +1,2746 @@
+2026-04-17 08:45:42 - PDF-Extractor - INFO - 
+2026-04-17 08:45:42 - PDF-Extractor - INFO - ╔==========================================================╗
+2026-04-17 08:45:43 - PDF-Extractor - INFO - ║          PDF到Excel完整提取系统                        ║
+2026-04-17 08:45:43 - PDF-Extractor - INFO - ║        包含OCR + 本地AI (Ollama)                      ║
+2026-04-17 08:45:43 - PDF-Extractor - INFO - ╚==========================================================╝
+2026-04-17 08:45:43 - PDF-Extractor - INFO - 
+2026-04-17 08:45:43 - PDF-Extractor - INFO - 
+2026-04-17 08:45:43 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:45:43 - PDF-Extractor - INFO - 📍 Step1: 提取PDF页面（含OCR）
+2026-04-17 08:45:43 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:45:43 - PDF-Extractor - ERROR - ❌ step1_extract.py 失败 (返回码: 1)
+2026-04-17 08:45:43 - PDF-Extractor - ERROR - 
+2026-04-17 08:45:43 - PDF-Extractor - ERROR - ❌ 流程中断！
+2026-04-17 08:48:30 - PDF-Extractor - INFO - 
+2026-04-17 08:48:30 - PDF-Extractor - INFO - ╔==========================================================╗
+2026-04-17 08:48:30 - PDF-Extractor - INFO - ║          PDF到Excel完整提取系统                        ║
+2026-04-17 08:48:30 - PDF-Extractor - INFO - ║        包含OCR + 本地AI (Ollama)                      ║
+2026-04-17 08:48:30 - PDF-Extractor - INFO - ╚==========================================================╝
+2026-04-17 08:48:30 - PDF-Extractor - INFO - 
+2026-04-17 08:48:30 - PDF-Extractor - INFO - 
+2026-04-17 08:48:30 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:48:30 - PDF-Extractor - INFO - 📍 Step1: 提取PDF页面（含OCR）
+2026-04-17 08:48:30 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:48:30 - PDF-Extractor - ERROR - ❌ step1_extract.py 失败 (返回码: 1)
+2026-04-17 08:48:30 - PDF-Extractor - ERROR - 
+2026-04-17 08:48:30 - PDF-Extractor - ERROR - ❌ 流程中断！
+2026-04-17 08:50:33 - PDF-Extractor - INFO - 
+2026-04-17 08:50:33 - PDF-Extractor - INFO - ╔==========================================================╗
+2026-04-17 08:50:33 - PDF-Extractor - INFO - ║          PDF到Excel完整提取系统                        ║
+2026-04-17 08:50:33 - PDF-Extractor - INFO - ║        包含OCR + 本地AI (Ollama)                      ║
+2026-04-17 08:50:33 - PDF-Extractor - INFO - ╚==========================================================╝
+2026-04-17 08:50:33 - PDF-Extractor - INFO - 
+2026-04-17 08:50:33 - PDF-Extractor - INFO - 
+2026-04-17 08:50:33 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:50:33 - PDF-Extractor - INFO - 📍 Step1: 提取PDF页面（含OCR）
+2026-04-17 08:50:33 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:50:34 - PDF-Extractor - INFO - ==================================================
+2026-04-17 08:50:34 - PDF-Extractor - INFO - 🚀 Step1: 提取PDF页面
+2026-04-17 08:50:34 - PDF-Extractor - INFO - ==================================================
+2026-04-17 08:50:34 - PDF-Extractor - INFO - 📖 打开PDF: report.pdf
+2026-04-17 08:50:34 - PDF-Extractor - INFO - 📊 总页数: 827
+2026-04-17 08:50:34 - PDF-Extractor - INFO - ⚙️  初始化OCR引擎...
+2026-04-17 08:50:34 - PDF-Extractor - INFO - ✅ OCR引擎初始化成功
+2026-04-17 08:50:34 - PDF-Extractor - INFO - 📄 处理第 1/827 页
+2026-04-17 08:50:35 - PDF-Extractor - INFO - 📄 处理第 2/827 页
+2026-04-17 08:50:36 - PDF-Extractor - INFO - 📄 处理第 3/827 页
+2026-04-17 08:50:36 - PDF-Extractor - INFO - 📄 处理第 4/827 页
+2026-04-17 08:50:37 - PDF-Extractor - INFO - 📄 处理第 5/827 页
+2026-04-17 08:50:38 - PDF-Extractor - INFO - 📄 处理第 6/827 页
+2026-04-17 08:50:42 - PDF-Extractor - INFO - 📄 处理第 7/827 页
+2026-04-17 08:50:47 - PDF-Extractor - INFO - 📄 处理第 8/827 页
+2026-04-17 08:50:55 - PDF-Extractor - INFO - 📄 处理第 9/827 页
+2026-04-17 08:50:55 - PDF-Extractor - INFO - 📄 处理第 10/827 页
+2026-04-17 08:51:00 - PDF-Extractor - INFO - 📄 处理第 11/827 页
+2026-04-17 08:51:07 - PDF-Extractor - INFO - 📄 处理第 12/827 页
+2026-04-17 08:51:09 - PDF-Extractor - INFO - 📄 处理第 13/827 页
+2026-04-17 08:51:10 - PDF-Extractor - INFO - 📄 处理第 14/827 页
+2026-04-17 08:51:16 - PDF-Extractor - INFO - 📄 处理第 15/827 页
+2026-04-17 08:51:17 - PDF-Extractor - INFO - 📄 处理第 16/827 页
+2026-04-17 08:51:21 - PDF-Extractor - INFO - 📄 处理第 17/827 页
+2026-04-17 08:51:27 - PDF-Extractor - INFO - 📄 处理第 18/827 页
+2026-04-17 08:51:29 - PDF-Extractor - INFO - 📄 处理第 19/827 页
+2026-04-17 08:51:33 - PDF-Extractor - INFO - 📄 处理第 20/827 页
+2026-04-17 08:51:36 - PDF-Extractor - INFO - 📄 处理第 21/827 页
+2026-04-17 08:51:43 - PDF-Extractor - INFO - 📄 处理第 22/827 页
+2026-04-17 08:51:54 - PDF-Extractor - INFO - 📄 处理第 23/827 页
+2026-04-17 08:52:07 - PDF-Extractor - INFO - 📄 处理第 24/827 页
+2026-04-17 08:52:19 - PDF-Extractor - INFO - 📄 处理第 25/827 页
+2026-04-17 08:52:25 - PDF-Extractor - INFO - 📄 处理第 26/827 页
+2026-04-17 08:52:31 - PDF-Extractor - INFO - 📄 处理第 27/827 页
+2026-04-17 08:52:42 - PDF-Extractor - INFO - 
+2026-04-17 08:52:42 - PDF-Extractor - INFO - ╔==========================================================╗
+2026-04-17 08:52:42 - PDF-Extractor - INFO - ║          PDF到Excel完整提取系统                        ║
+2026-04-17 08:52:42 - PDF-Extractor - INFO - ║        包含OCR + 本地AI (Ollama)                      ║
+2026-04-17 08:52:42 - PDF-Extractor - INFO - ╚==========================================================╝
+2026-04-17 08:52:42 - PDF-Extractor - INFO - 
+2026-04-17 08:52:42 - PDF-Extractor - INFO - 
+2026-04-17 08:52:42 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:52:42 - PDF-Extractor - INFO - 📍 Step1: 提取PDF页面（含OCR）
+2026-04-17 08:52:42 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:52:43 - PDF-Extractor - INFO - ==================================================
+2026-04-17 08:52:43 - PDF-Extractor - INFO - 🚀 Step1: 提取PDF页面
+2026-04-17 08:52:43 - PDF-Extractor - INFO - ==================================================
+2026-04-17 08:52:43 - PDF-Extractor - INFO - 📖 打开PDF: report.pdf
+2026-04-17 08:52:43 - PDF-Extractor - INFO - 📊 总页数: 827
+2026-04-17 08:52:43 - PDF-Extractor - INFO - ⚙️  初始化OCR引擎...
+2026-04-17 08:52:44 - PDF-Extractor - INFO - ✅ OCR引擎初始化成功
+2026-04-17 08:52:44 - PDF-Extractor - INFO - 📄 处理第 1/827 页
+2026-04-17 08:52:44 - PDF-Extractor - INFO - 📄 处理第 2/827 页
+2026-04-17 08:52:45 - PDF-Extractor - INFO - 📄 处理第 3/827 页
+2026-04-17 08:52:46 - PDF-Extractor - INFO - 📄 处理第 4/827 页
+2026-04-17 08:52:47 - PDF-Extractor - INFO - 📄 处理第 5/827 页
+2026-04-17 08:52:48 - PDF-Extractor - INFO - 📄 处理第 6/827 页
+2026-04-17 08:52:52 - PDF-Extractor - INFO - 📄 处理第 7/827 页
+2026-04-17 08:52:57 - PDF-Extractor - INFO - 📄 处理第 8/827 页
+2026-04-17 08:53:02 - PDF-Extractor - INFO - 📄 处理第 9/827 页
+2026-04-17 08:53:02 - PDF-Extractor - INFO - 📄 处理第 10/827 页
+2026-04-17 08:53:04 - PDF-Extractor - INFO - 📄 处理第 11/827 页
+2026-04-17 08:53:08 - PDF-Extractor - INFO - 📄 处理第 12/827 页
+2026-04-17 08:53:11 - PDF-Extractor - INFO - 📄 处理第 13/827 页
+2026-04-17 08:53:12 - PDF-Extractor - INFO - 📄 处理第 14/827 页
+2026-04-17 08:53:20 - PDF-Extractor - INFO - 📄 处理第 15/827 页
+2026-04-17 08:53:23 - PDF-Extractor - INFO - 📄 处理第 16/827 页
+2026-04-17 08:53:30 - PDF-Extractor - INFO - 📄 处理第 17/827 页
+2026-04-17 08:53:42 - PDF-Extractor - INFO - 📄 处理第 18/827 页
+2026-04-17 08:53:48 - PDF-Extractor - INFO - 📄 处理第 19/827 页
+2026-04-17 08:53:57 - PDF-Extractor - INFO - 📄 处理第 20/827 页
+2026-04-17 08:54:05 - PDF-Extractor - INFO - 📄 处理第 21/827 页
+2026-04-17 08:54:14 - PDF-Extractor - INFO - 📄 处理第 22/827 页
+2026-04-17 08:54:25 - PDF-Extractor - INFO - 📄 处理第 23/827 页
+2026-04-17 08:54:38 - PDF-Extractor - INFO - 📄 处理第 24/827 页
+2026-04-17 08:54:51 - PDF-Extractor - INFO - 📄 处理第 25/827 页
+2026-04-17 08:54:58 - PDF-Extractor - INFO - 📄 处理第 26/827 页
+2026-04-17 08:55:03 - PDF-Extractor - INFO - 📄 处理第 27/827 页
+2026-04-17 08:55:16 - PDF-Extractor - INFO - 📄 处理第 28/827 页
+2026-04-17 08:55:23 - PDF-Extractor - INFO - 📄 处理第 29/827 页
+2026-04-17 08:55:28 - PDF-Extractor - INFO - 📄 处理第 30/827 页
+2026-04-17 08:55:40 - PDF-Extractor - INFO - 📄 处理第 31/827 页
+2026-04-17 08:55:46 - PDF-Extractor - INFO - 📄 处理第 32/827 页
+2026-04-17 08:55:55 - PDF-Extractor - INFO - 📄 处理第 33/827 页
+2026-04-17 08:55:59 - PDF-Extractor - INFO - 📄 处理第 34/827 页
+2026-04-17 08:56:12 - PDF-Extractor - INFO - 📄 处理第 35/827 页
+2026-04-17 08:56:17 - PDF-Extractor - INFO - 📄 处理第 36/827 页
+2026-04-17 08:56:28 - PDF-Extractor - INFO - 📄 处理第 37/827 页
+2026-04-17 08:56:40 - PDF-Extractor - INFO - 📄 处理第 38/827 页
+2026-04-17 08:56:53 - PDF-Extractor - INFO - 📄 处理第 39/827 页
+2026-04-17 08:57:06 - PDF-Extractor - INFO - 📄 处理第 40/827 页
+2026-04-17 08:57:14 - PDF-Extractor - INFO - 📄 处理第 41/827 页
+2026-04-17 08:57:20 - PDF-Extractor - INFO - 📄 处理第 42/827 页
+2026-04-17 08:57:33 - PDF-Extractor - INFO - 📄 处理第 43/827 页
+2026-04-17 08:57:38 - PDF-Extractor - INFO - 📄 处理第 44/827 页
+2026-04-17 08:57:45 - PDF-Extractor - INFO - 📄 处理第 45/827 页
+2026-04-17 08:57:58 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:57:58 - PDF-Extractor - INFO - 🚀 优化流程：多进程 + 智能解析
+2026-04-17 08:57:58 - PDF-Extractor - INFO - ============================================================
+2026-04-17 08:57:58 - PDF-Extractor - INFO - 
+📄 Step1: 多进程提取PDF
+2026-04-17 08:57:58 - PDF-Extractor - INFO - 📖 打开PDF: report.pdf
+2026-04-17 08:57:58 - PDF-Extractor - INFO - 📊 总页数: 827
+2026-04-17 08:57:59 - PDF-Extractor - INFO - ⚙️  初始化OCR引擎...
+2026-04-17 08:58:00 - PDF-Extractor - INFO - ✅ OCR引擎初始化成功
+2026-04-17 08:58:01 - PDF-Extractor - INFO - 📄 第 1 页完成 (0%)
+2026-04-17 08:58:02 - PDF-Extractor - INFO - 📄 第 2 页完成 (0%)
+2026-04-17 08:58:02 - PDF-Extractor - INFO - 📄 第 3 页完成 (0%)
+2026-04-17 08:58:03 - PDF-Extractor - INFO - 📄 第 4 页完成 (0%)
+2026-04-17 08:58:05 - PDF-Extractor - INFO - 📄 第 5 页完成 (1%)
+2026-04-17 08:58:10 - PDF-Extractor - INFO - 📄 第 6 页完成 (1%)
+2026-04-17 08:58:16 - PDF-Extractor - INFO - 📄 第 7 页完成 (1%)
+2026-04-17 08:58:22 - PDF-Extractor - INFO - 📄 第 8 页完成 (1%)
+2026-04-17 08:58:22 - PDF-Extractor - INFO - 📄 第 9 页完成 (1%)
+2026-04-17 08:58:24 - PDF-Extractor - INFO - 📄 第 10 页完成 (1%)
+2026-04-17 08:58:30 - PDF-Extractor - INFO - 📄 第 11 页完成 (1%)
+2026-04-17 08:58:33 - PDF-Extractor - INFO - 📄 第 12 页完成 (1%)
+2026-04-17 08:58:34 - PDF-Extractor - INFO - 📄 第 13 页完成 (2%)
+2026-04-17 08:58:40 - PDF-Extractor - INFO - 📄 第 14 页完成 (2%)
+2026-04-17 08:58:42 - PDF-Extractor - INFO - 📄 第 15 页完成 (2%)
+2026-04-17 08:58:46 - PDF-Extractor - INFO - 📄 第 16 页完成 (2%)
+2026-04-17 08:58:53 - PDF-Extractor - INFO - 📄 第 17 页完成 (2%)
+2026-04-17 08:58:56 - PDF-Extractor - INFO - 📄 第 18 页完成 (2%)
+2026-04-17 08:59:01 - PDF-Extractor - INFO - 📄 第 19 页完成 (2%)
+2026-04-17 08:59:05 - PDF-Extractor - INFO - 📄 第 20 页完成 (2%)
+2026-04-17 08:59:11 - PDF-Extractor - INFO - 📄 第 21 页完成 (3%)
+2026-04-17 08:59:17 - PDF-Extractor - INFO - 📄 第 22 页完成 (3%)
+2026-04-17 08:59:24 - PDF-Extractor - INFO - 📄 第 23 页完成 (3%)
+2026-04-17 08:59:50 - PDF-Extractor - INFO - 📄 第 24 页完成 (3%)
+2026-04-17 08:59:55 - PDF-Extractor - INFO - 📄 第 25 页完成 (3%)
+2026-04-17 08:59:58 - PDF-Extractor - INFO - 📄 第 26 页完成 (3%)
+2026-04-17 09:00:05 - PDF-Extractor - INFO - 📄 第 27 页完成 (3%)
+2026-04-17 09:00:09 - PDF-Extractor - INFO - 📄 第 28 页完成 (3%)
+2026-04-17 09:00:12 - PDF-Extractor - INFO - 📄 第 29 页完成 (4%)
+2026-04-17 09:00:19 - PDF-Extractor - INFO - 📄 第 30 页完成 (4%)
+2026-04-17 09:00:22 - PDF-Extractor - INFO - 📄 第 31 页完成 (4%)
+2026-04-17 09:00:26 - PDF-Extractor - INFO - 📄 第 32 页完成 (4%)
+2026-04-17 09:00:28 - PDF-Extractor - INFO - 📄 第 33 页完成 (4%)
+2026-04-17 09:00:36 - PDF-Extractor - INFO - 📄 第 34 页完成 (4%)
+2026-04-17 09:00:39 - PDF-Extractor - INFO - 📄 第 35 页完成 (4%)
+2026-04-17 09:00:44 - PDF-Extractor - INFO - 📄 第 36 页完成 (4%)
+2026-04-17 09:00:51 - PDF-Extractor - INFO - 📄 第 37 页完成 (4%)
+2026-04-17 09:00:58 - PDF-Extractor - INFO - 📄 第 38 页完成 (5%)
+2026-04-17 09:01:05 - PDF-Extractor - INFO - 📄 第 39 页完成 (5%)
+2026-04-17 09:01:10 - PDF-Extractor - INFO - 📄 第 40 页完成 (5%)
+2026-04-17 09:01:13 - PDF-Extractor - INFO - 📄 第 41 页完成 (5%)
+2026-04-17 09:01:21 - PDF-Extractor - INFO - 📄 第 42 页完成 (5%)
+2026-04-17 09:01:24 - PDF-Extractor - INFO - 📄 第 43 页完成 (5%)
+2026-04-17 09:01:27 - PDF-Extractor - INFO - 📄 第 44 页完成 (5%)
+2026-04-17 09:01:31 - PDF-Extractor - INFO - 📄 第 45 页完成 (5%)
+2026-04-17 09:01:34 - PDF-Extractor - INFO - 📄 第 46 页完成 (6%)
+2026-04-17 09:01:42 - PDF-Extractor - INFO - 📄 第 47 页完成 (6%)
+2026-04-17 09:01:46 - PDF-Extractor - INFO - 📄 第 48 页完成 (6%)
+2026-04-17 09:01:50 - PDF-Extractor - INFO - 📄 第 49 页完成 (6%)
+2026-04-17 09:01:54 - PDF-Extractor - INFO - 📄 第 50 页完成 (6%)
+2026-04-17 09:01:58 - PDF-Extractor - INFO - 📄 第 51 页完成 (6%)
+2026-04-17 09:02:02 - PDF-Extractor - INFO - 📄 第 52 页完成 (6%)
+2026-04-17 09:02:06 - PDF-Extractor - INFO - 📄 第 53 页完成 (6%)
+2026-04-17 09:02:12 - PDF-Extractor - INFO - 📄 第 54 页完成 (7%)
+2026-04-17 09:02:18 - PDF-Extractor - INFO - 📄 第 55 页完成 (7%)
+2026-04-17 09:02:26 - PDF-Extractor - INFO - 📄 第 56 页完成 (7%)
+2026-04-17 09:02:34 - PDF-Extractor - INFO - 📄 第 57 页完成 (7%)
+2026-04-17 09:02:42 - PDF-Extractor - INFO - 📄 第 58 页完成 (7%)
+2026-04-17 09:02:49 - PDF-Extractor - INFO - 📄 第 59 页完成 (7%)
+2026-04-17 09:02:53 - PDF-Extractor - INFO - 📄 第 60 页完成 (7%)
+2026-04-17 09:02:57 - PDF-Extractor - INFO - 📄 第 61 页完成 (7%)
+2026-04-17 09:03:00 - PDF-Extractor - INFO - 📄 第 62 页完成 (7%)
+2026-04-17 09:03:07 - PDF-Extractor - INFO - 📄 第 63 页完成 (8%)
+2026-04-17 09:03:15 - PDF-Extractor - INFO - 📄 第 64 页完成 (8%)
+2026-04-17 09:03:18 - PDF-Extractor - INFO - 📄 第 65 页完成 (8%)
+2026-04-17 09:03:22 - PDF-Extractor - INFO - 📄 第 66 页完成 (8%)
+2026-04-17 09:03:25 - PDF-Extractor - INFO - 📄 第 67 页完成 (8%)
+2026-04-17 09:03:33 - PDF-Extractor - INFO - 📄 第 68 页完成 (8%)
+2026-04-17 09:03:36 - PDF-Extractor - INFO - 📄 第 69 页完成 (8%)
+2026-04-17 09:03:41 - PDF-Extractor - INFO - 📄 第 70 页完成 (8%)
+2026-04-17 09:03:44 - PDF-Extractor - INFO - 📄 第 71 页完成 (9%)
+2026-04-17 09:03:52 - PDF-Extractor - INFO - 📄 第 72 页完成 (9%)
+2026-04-17 09:04:01 - PDF-Extractor - INFO - 📄 第 73 页完成 (9%)
+2026-04-17 09:04:05 - PDF-Extractor - INFO - 📄 第 74 页完成 (9%)
+2026-04-17 09:04:09 - PDF-Extractor - INFO - 📄 第 75 页完成 (9%)
+2026-04-17 09:04:16 - PDF-Extractor - INFO - 📄 第 76 页完成 (9%)
+2026-04-17 09:04:24 - PDF-Extractor - INFO - 📄 第 77 页完成 (9%)
+2026-04-17 09:04:27 - PDF-Extractor - INFO - 📄 第 78 页完成 (9%)
+2026-04-17 09:04:30 - PDF-Extractor - INFO - 📄 第 79 页完成 (10%)
+2026-04-17 09:04:39 - PDF-Extractor - INFO - 📄 第 80 页完成 (10%)
+2026-04-17 09:04:43 - PDF-Extractor - INFO - 📄 第 81 页完成 (10%)
+2026-04-17 09:04:46 - PDF-Extractor - INFO - 📄 第 82 页完成 (10%)
+2026-04-17 09:04:49 - PDF-Extractor - INFO - 📄 第 83 页完成 (10%)
+2026-04-17 09:04:55 - PDF-Extractor - INFO - 📄 第 84 页完成 (10%)
+2026-04-17 09:04:58 - PDF-Extractor - INFO - 📄 第 85 页完成 (10%)
+2026-04-17 09:05:01 - PDF-Extractor - INFO - 📄 第 86 页完成 (10%)
+2026-04-17 09:05:05 - PDF-Extractor - INFO - 📄 第 87 页完成 (11%)
+2026-04-17 09:05:11 - PDF-Extractor - INFO - 📄 第 88 页完成 (11%)
+2026-04-17 09:05:19 - PDF-Extractor - INFO - 📄 第 89 页完成 (11%)
+2026-04-17 09:05:23 - PDF-Extractor - INFO - 📄 第 90 页完成 (11%)
+2026-04-17 09:05:26 - PDF-Extractor - INFO - 📄 第 91 页完成 (11%)
+2026-04-17 09:05:27 - PDF-Extractor - INFO - 📄 第 92 页完成 (11%)
+2026-04-17 09:05:34 - PDF-Extractor - INFO - 📄 第 93 页完成 (11%)
+2026-04-17 09:05:36 - PDF-Extractor - INFO - 📄 第 94 页完成 (11%)
+2026-04-17 09:05:39 - PDF-Extractor - INFO - 📄 第 95 页完成 (11%)
+2026-04-17 09:05:41 - PDF-Extractor - INFO - 📄 第 96 页完成 (12%)
+2026-04-17 09:05:48 - PDF-Extractor - INFO - 📄 第 97 页完成 (12%)
+2026-04-17 09:05:53 - PDF-Extractor - INFO - 📄 第 98 页完成 (12%)
+2026-04-17 09:05:57 - PDF-Extractor - INFO - 📄 第 99 页完成 (12%)
+2026-04-17 09:06:01 - PDF-Extractor - INFO - 📄 第 100 页完成 (12%)
+2026-04-17 09:06:05 - PDF-Extractor - INFO - 📄 第 101 页完成 (12%)
+2026-04-17 09:06:11 - PDF-Extractor - INFO - 📄 第 102 页完成 (12%)
+2026-04-17 09:06:19 - PDF-Extractor - INFO - 📄 第 103 页完成 (12%)
+2026-04-17 09:06:21 - PDF-Extractor - INFO - 📄 第 104 页完成 (13%)
+2026-04-17 09:06:25 - PDF-Extractor - INFO - 📄 第 105 页完成 (13%)
+2026-04-17 09:06:32 - PDF-Extractor - INFO - 📄 第 106 页完成 (13%)
+2026-04-17 09:06:36 - PDF-Extractor - INFO - 📄 第 107 页完成 (13%)
+2026-04-17 09:06:41 - PDF-Extractor - INFO - 📄 第 108 页完成 (13%)
+2026-04-17 09:06:47 - PDF-Extractor - INFO - 📄 第 109 页完成 (13%)
+2026-04-17 09:06:55 - PDF-Extractor - INFO - 📄 第 110 页完成 (13%)
+2026-04-17 09:07:02 - PDF-Extractor - INFO - 📄 第 111 页完成 (13%)
+2026-04-17 09:07:08 - PDF-Extractor - INFO - 📄 第 112 页完成 (14%)
+2026-04-17 09:07:12 - PDF-Extractor - INFO - 📄 第 113 页完成 (14%)
+2026-04-17 09:07:16 - PDF-Extractor - INFO - 📄 第 114 页完成 (14%)
+2026-04-17 09:07:23 - PDF-Extractor - INFO - 📄 第 115 页完成 (14%)
+2026-04-17 09:07:30 - PDF-Extractor - INFO - 📄 第 116 页完成 (14%)
+2026-04-17 09:07:34 - PDF-Extractor - INFO - 📄 第 117 页完成 (14%)
+2026-04-17 09:07:37 - PDF-Extractor - INFO - 📄 第 118 页完成 (14%)
+2026-04-17 09:07:41 - PDF-Extractor - INFO - 📄 第 119 页完成 (14%)
+2026-04-17 09:07:47 - PDF-Extractor - INFO - 📄 第 120 页完成 (15%)
+2026-04-17 09:07:50 - PDF-Extractor - INFO - 📄 第 121 页完成 (15%)
+2026-04-17 09:07:52 - PDF-Extractor - INFO - 📄 第 122 页完成 (15%)
+2026-04-17 09:07:58 - PDF-Extractor - INFO - 📄 第 123 页完成 (15%)
+2026-04-17 09:08:02 - PDF-Extractor - INFO - 📄 第 124 页完成 (15%)
+2026-04-17 09:08:11 - PDF-Extractor - INFO - 📄 第 125 页完成 (15%)
+2026-04-17 09:08:19 - PDF-Extractor - INFO - 📄 第 126 页完成 (15%)
+2026-04-17 09:08:21 - PDF-Extractor - INFO - 📄 第 127 页完成 (15%)
+2026-04-17 09:08:27 - PDF-Extractor - INFO - 📄 第 128 页完成 (15%)
+2026-04-17 09:08:33 - PDF-Extractor - INFO - 📄 第 129 页完成 (16%)
+2026-04-17 09:08:40 - PDF-Extractor - INFO - 📄 第 130 页完成 (16%)
+2026-04-17 09:08:45 - PDF-Extractor - INFO - 📄 第 131 页完成 (16%)
+2026-04-17 09:08:49 - PDF-Extractor - INFO - 📄 第 132 页完成 (16%)
+2026-04-17 09:08:51 - PDF-Extractor - INFO - 📄 第 133 页完成 (16%)
+2026-04-17 09:08:55 - PDF-Extractor - INFO - 📄 第 134 页完成 (16%)
+2026-04-17 09:09:03 - PDF-Extractor - INFO - 📄 第 135 页完成 (16%)
+2026-04-17 09:09:06 - PDF-Extractor - INFO - 📄 第 136 页完成 (16%)
+2026-04-17 09:09:12 - PDF-Extractor - INFO - 📄 第 137 页完成 (17%)
+2026-04-17 09:09:17 - PDF-Extractor - INFO - 📄 第 138 页完成 (17%)
+2026-04-17 09:09:20 - PDF-Extractor - INFO - 📄 第 139 页完成 (17%)
+2026-04-17 09:09:28 - PDF-Extractor - INFO - 📄 第 140 页完成 (17%)
+2026-04-17 09:09:35 - PDF-Extractor - INFO - 📄 第 141 页完成 (17%)
+2026-04-17 09:09:38 - PDF-Extractor - INFO - 📄 第 142 页完成 (17%)
+2026-04-17 09:09:43 - PDF-Extractor - INFO - 📄 第 143 页完成 (17%)
+2026-04-17 09:09:51 - PDF-Extractor - INFO - 📄 第 144 页完成 (17%)
+2026-04-17 09:09:59 - PDF-Extractor - INFO - 📄 第 145 页完成 (18%)
+2026-04-17 09:10:07 - PDF-Extractor - INFO - 📄 第 146 页完成 (18%)
+2026-04-17 09:10:09 - PDF-Extractor - INFO - 📄 第 147 页完成 (18%)
+2026-04-17 09:10:12 - PDF-Extractor - INFO - 📄 第 148 页完成 (18%)
+2026-04-17 09:10:20 - PDF-Extractor - INFO - 📄 第 149 页完成 (18%)
+2026-04-17 09:10:27 - PDF-Extractor - INFO - 📄 第 150 页完成 (18%)
+2026-04-17 09:10:31 - PDF-Extractor - INFO - 📄 第 151 页完成 (18%)
+2026-04-17 09:10:34 - PDF-Extractor - INFO - 📄 第 152 页完成 (18%)
+2026-04-17 09:10:37 - PDF-Extractor - INFO - 📄 第 153 页完成 (19%)
+2026-04-17 09:10:40 - PDF-Extractor - INFO - 📄 第 154 页完成 (19%)
+2026-04-17 09:10:44 - PDF-Extractor - INFO - 📄 第 155 页完成 (19%)
+2026-04-17 09:10:46 - PDF-Extractor - INFO - 📄 第 156 页完成 (19%)
+2026-04-17 09:10:56 - PDF-Extractor - INFO - 📄 第 157 页完成 (19%)
+2026-04-17 09:10:57 - PDF-Extractor - INFO - 📄 第 158 页完成 (19%)
+2026-04-17 09:11:05 - PDF-Extractor - INFO - 📄 第 159 页完成 (19%)
+2026-04-17 09:11:08 - PDF-Extractor - INFO - 📄 第 160 页完成 (19%)
+2026-04-17 09:11:13 - PDF-Extractor - INFO - 📄 第 161 页完成 (19%)
+2026-04-17 09:11:18 - PDF-Extractor - INFO - 📄 第 162 页完成 (20%)
+2026-04-17 09:11:28 - PDF-Extractor - INFO - 📄 第 163 页完成 (20%)
+2026-04-17 09:11:33 - PDF-Extractor - INFO - 📄 第 164 页完成 (20%)
+2026-04-17 09:11:37 - PDF-Extractor - INFO - 📄 第 165 页完成 (20%)
+2026-04-17 09:11:42 - PDF-Extractor - INFO - 📄 第 166 页完成 (20%)
+2026-04-17 09:11:46 - PDF-Extractor - INFO - 📄 第 167 页完成 (20%)
+2026-04-17 09:11:49 - PDF-Extractor - INFO - 📄 第 168 页完成 (20%)
+2026-04-17 09:11:54 - PDF-Extractor - INFO - 📄 第 169 页完成 (20%)
+2026-04-17 09:12:01 - PDF-Extractor - INFO - 📄 第 170 页完成 (21%)
+2026-04-17 09:12:09 - PDF-Extractor - INFO - 📄 第 171 页完成 (21%)
+2026-04-17 09:12:13 - PDF-Extractor - INFO - 📄 第 172 页完成 (21%)
+2026-04-17 09:12:16 - PDF-Extractor - INFO - 📄 第 173 页完成 (21%)
+2026-04-17 09:12:18 - PDF-Extractor - INFO - 📄 第 174 页完成 (21%)
+2026-04-17 09:12:23 - PDF-Extractor - INFO - 📄 第 175 页完成 (21%)
+2026-04-17 09:12:31 - PDF-Extractor - INFO - 📄 第 176 页完成 (21%)
+2026-04-17 09:12:39 - PDF-Extractor - INFO - 📄 第 177 页完成 (21%)
+2026-04-17 09:12:47 - PDF-Extractor - INFO - 📄 第 178 页完成 (22%)
+2026-04-17 09:12:48 - PDF-Extractor - INFO - 📄 第 179 页完成 (22%)
+2026-04-17 09:13:01 - PDF-Extractor - INFO - 📄 第 180 页完成 (22%)
+2026-04-17 09:13:06 - PDF-Extractor - INFO - 📄 第 181 页完成 (22%)
+2026-04-17 09:13:11 - PDF-Extractor - INFO - 📄 第 182 页完成 (22%)
+2026-04-17 09:13:18 - PDF-Extractor - INFO - 📄 第 183 页完成 (22%)
+2026-04-17 09:13:22 - PDF-Extractor - INFO - 📄 第 184 页完成 (22%)
+2026-04-17 09:13:28 - PDF-Extractor - INFO - 📄 第 185 页完成 (22%)
+2026-04-17 09:13:38 - PDF-Extractor - INFO - 📄 第 186 页完成 (22%)
+2026-04-17 09:13:41 - PDF-Extractor - INFO - 📄 第 187 页完成 (23%)
+2026-04-17 09:13:44 - PDF-Extractor - INFO - 📄 第 188 页完成 (23%)
+2026-04-17 09:13:51 - PDF-Extractor - INFO - 📄 第 189 页完成 (23%)
+2026-04-17 09:13:59 - PDF-Extractor - INFO - 📄 第 190 页完成 (23%)
+2026-04-17 09:14:07 - PDF-Extractor - INFO - 📄 第 191 页完成 (23%)
+2026-04-17 09:14:11 - PDF-Extractor - INFO - 📄 第 192 页完成 (23%)
+2026-04-17 09:14:15 - PDF-Extractor - INFO - 📄 第 193 页完成 (23%)
+2026-04-17 09:14:18 - PDF-Extractor - INFO - 📄 第 194 页完成 (23%)
+2026-04-17 09:14:26 - PDF-Extractor - INFO - 📄 第 195 页完成 (24%)
+2026-04-17 09:14:34 - PDF-Extractor - INFO - 📄 第 196 页完成 (24%)
+2026-04-17 09:14:41 - PDF-Extractor - INFO - 📄 第 197 页完成 (24%)
+2026-04-17 09:14:45 - PDF-Extractor - INFO - 📄 第 198 页完成 (24%)
+2026-04-17 09:14:47 - PDF-Extractor - INFO - 📄 第 199 页完成 (24%)
+2026-04-17 09:14:55 - PDF-Extractor - INFO - 📄 第 200 页完成 (24%)
+2026-04-17 09:14:59 - PDF-Extractor - INFO - 📄 第 201 页完成 (24%)
+2026-04-17 09:15:02 - PDF-Extractor - INFO - 📄 第 202 页完成 (24%)
+2026-04-17 09:15:10 - PDF-Extractor - INFO - 📄 第 203 页完成 (25%)
+2026-04-17 09:15:13 - PDF-Extractor - INFO - 📄 第 204 页完成 (25%)
+2026-04-17 09:15:20 - PDF-Extractor - INFO - 📄 第 205 页完成 (25%)
+2026-04-17 09:15:28 - PDF-Extractor - INFO - 📄 第 206 页完成 (25%)
+2026-04-17 09:15:38 - PDF-Extractor - INFO - 📄 第 207 页完成 (25%)
+2026-04-17 09:15:41 - PDF-Extractor - INFO - 📄 第 208 页完成 (25%)
+2026-04-17 09:15:45 - PDF-Extractor - INFO - 📄 第 209 页完成 (25%)
+2026-04-17 09:15:49 - PDF-Extractor - INFO - 📄 第 210 页完成 (25%)
+2026-04-17 09:15:52 - PDF-Extractor - INFO - 📄 第 211 页完成 (26%)
+2026-04-17 09:15:57 - PDF-Extractor - INFO - 📄 第 212 页完成 (26%)
+2026-04-17 09:16:00 - PDF-Extractor - INFO - 📄 第 213 页完成 (26%)
+2026-04-17 09:16:06 - PDF-Extractor - INFO - 📄 第 214 页完成 (26%)
+2026-04-17 09:16:14 - PDF-Extractor - INFO - 📄 第 215 页完成 (26%)
+2026-04-17 09:16:18 - PDF-Extractor - INFO - 📄 第 216 页完成 (26%)
+2026-04-17 09:16:22 - PDF-Extractor - INFO - 📄 第 217 页完成 (26%)
+2026-04-17 09:16:27 - PDF-Extractor - INFO - 📄 第 218 页完成 (26%)
+2026-04-17 09:16:34 - PDF-Extractor - INFO - 📄 第 219 页完成 (26%)
+2026-04-17 09:16:41 - PDF-Extractor - INFO - 📄 第 220 页完成 (27%)
+2026-04-17 09:16:49 - PDF-Extractor - INFO - 📄 第 221 页完成 (27%)
+2026-04-17 09:16:51 - PDF-Extractor - INFO - 📄 第 222 页完成 (27%)
+2026-04-17 09:16:53 - PDF-Extractor - INFO - 📄 第 223 页完成 (27%)
+2026-04-17 09:17:01 - PDF-Extractor - INFO - 📄 第 224 页完成 (27%)
+2026-04-17 09:17:08 - PDF-Extractor - INFO - 📄 第 225 页完成 (27%)
+2026-04-17 09:17:10 - PDF-Extractor - INFO - 📄 第 226 页完成 (27%)
+2026-04-17 09:17:16 - PDF-Extractor - INFO - 📄 第 227 页完成 (27%)
+2026-04-17 09:17:24 - PDF-Extractor - INFO - 📄 第 228 页完成 (28%)
+2026-04-17 09:17:32 - PDF-Extractor - INFO - 📄 第 229 页完成 (28%)
+2026-04-17 09:17:35 - PDF-Extractor - INFO - 📄 第 230 页完成 (28%)
+2026-04-17 09:17:40 - PDF-Extractor - INFO - 📄 第 231 页完成 (28%)
+2026-04-17 09:17:47 - PDF-Extractor - INFO - 📄 第 232 页完成 (28%)
+2026-04-17 09:17:54 - PDF-Extractor - INFO - 📄 第 233 页完成 (28%)
+2026-04-17 09:17:59 - PDF-Extractor - INFO - 📄 第 234 页完成 (28%)
+2026-04-17 09:18:04 - PDF-Extractor - INFO - 📄 第 235 页完成 (28%)
+2026-04-17 09:18:11 - PDF-Extractor - INFO - 📄 第 236 页完成 (29%)
+2026-04-17 09:18:19 - PDF-Extractor - INFO - 📄 第 237 页完成 (29%)
+2026-04-17 09:18:24 - PDF-Extractor - INFO - 📄 第 238 页完成 (29%)
+2026-04-17 09:18:28 - PDF-Extractor - INFO - 📄 第 239 页完成 (29%)
+2026-04-17 09:18:38 - PDF-Extractor - INFO - 📄 第 240 页完成 (29%)
+2026-04-17 09:18:46 - PDF-Extractor - INFO - 📄 第 241 页完成 (29%)
+2026-04-17 09:18:52 - PDF-Extractor - INFO - 📄 第 242 页完成 (29%)
+2026-04-17 09:18:57 - PDF-Extractor - INFO - 📄 第 243 页完成 (29%)
+2026-04-17 09:19:01 - PDF-Extractor - INFO - 📄 第 244 页完成 (30%)
+2026-04-17 09:19:12 - PDF-Extractor - INFO - 📄 第 245 页完成 (30%)
+2026-04-17 09:19:20 - PDF-Extractor - INFO - 📄 第 246 页完成 (30%)
+2026-04-17 09:19:28 - PDF-Extractor - INFO - 📄 第 247 页完成 (30%)
+2026-04-17 09:19:31 - PDF-Extractor - INFO - 📄 第 248 页完成 (30%)
+2026-04-17 09:19:37 - PDF-Extractor - INFO - 📄 第 249 页完成 (30%)
+2026-04-17 09:19:46 - PDF-Extractor - INFO - 📄 第 250 页完成 (30%)
+2026-04-17 09:19:54 - PDF-Extractor - INFO - 📄 第 251 页完成 (30%)
+2026-04-17 09:19:59 - PDF-Extractor - INFO - 📄 第 252 页完成 (30%)
+2026-04-17 09:20:04 - PDF-Extractor - INFO - 📄 第 253 页完成 (31%)
+2026-04-17 09:20:09 - PDF-Extractor - INFO - 📄 第 254 页完成 (31%)
+2026-04-17 09:20:14 - PDF-Extractor - INFO - 📄 第 255 页完成 (31%)
+2026-04-17 09:20:17 - PDF-Extractor - INFO - 📄 第 256 页完成 (31%)
+2026-04-17 09:20:22 - PDF-Extractor - INFO - 📄 第 257 页完成 (31%)
+2026-04-17 09:20:30 - PDF-Extractor - INFO - 📄 第 258 页完成 (31%)
+2026-04-17 09:20:38 - PDF-Extractor - INFO - 📄 第 259 页完成 (31%)
+2026-04-17 09:20:40 - PDF-Extractor - INFO - 📄 第 260 页完成 (31%)
+2026-04-17 09:20:46 - PDF-Extractor - INFO - 📄 第 261 页完成 (32%)
+2026-04-17 09:20:53 - PDF-Extractor - INFO - 📄 第 262 页完成 (32%)
+2026-04-17 09:21:01 - PDF-Extractor - INFO - 📄 第 263 页完成 (32%)
+2026-04-17 09:21:08 - PDF-Extractor - INFO - 📄 第 264 页完成 (32%)
+2026-04-17 09:21:12 - PDF-Extractor - INFO - 📄 第 265 页完成 (32%)
+2026-04-17 09:21:17 - PDF-Extractor - INFO - 📄 第 266 页完成 (32%)
+2026-04-17 09:21:22 - PDF-Extractor - INFO - 📄 第 267 页完成 (32%)
+2026-04-17 09:21:30 - PDF-Extractor - INFO - 📄 第 268 页完成 (32%)
+2026-04-17 09:21:32 - PDF-Extractor - INFO - 📄 第 269 页完成 (33%)
+2026-04-17 09:21:35 - PDF-Extractor - INFO - 📄 第 270 页完成 (33%)
+2026-04-17 09:21:42 - PDF-Extractor - INFO - 📄 第 271 页完成 (33%)
+2026-04-17 09:21:49 - PDF-Extractor - INFO - 📄 第 272 页完成 (33%)
+2026-04-17 09:21:52 - PDF-Extractor - INFO - 📄 第 273 页完成 (33%)
+2026-04-17 09:21:56 - PDF-Extractor - INFO - 📄 第 274 页完成 (33%)
+2026-04-17 09:22:05 - PDF-Extractor - INFO - 📄 第 275 页完成 (33%)
+2026-04-17 09:22:13 - PDF-Extractor - INFO - 📄 第 276 页完成 (33%)
+2026-04-17 09:22:18 - PDF-Extractor - INFO - 📄 第 277 页完成 (33%)
+2026-04-17 09:22:22 - PDF-Extractor - INFO - 📄 第 278 页完成 (34%)
+2026-04-17 09:22:25 - PDF-Extractor - INFO - 📄 第 279 页完成 (34%)
+2026-04-17 09:22:33 - PDF-Extractor - INFO - 📄 第 280 页完成 (34%)
+2026-04-17 09:22:40 - PDF-Extractor - INFO - 📄 第 281 页完成 (34%)
+2026-04-17 09:22:44 - PDF-Extractor - INFO - 📄 第 282 页完成 (34%)
+2026-04-17 09:22:50 - PDF-Extractor - INFO - 📄 第 283 页完成 (34%)
+2026-04-17 09:22:59 - PDF-Extractor - INFO - 📄 第 284 页完成 (34%)
+2026-04-17 09:23:02 - PDF-Extractor - INFO - 📄 第 285 页完成 (34%)
+2026-04-17 09:23:05 - PDF-Extractor - INFO - 📄 第 286 页完成 (35%)
+2026-04-17 09:23:09 - PDF-Extractor - INFO - 📄 第 287 页完成 (35%)
+2026-04-17 09:23:15 - PDF-Extractor - INFO - 📄 第 288 页完成 (35%)
+2026-04-17 09:23:23 - PDF-Extractor - INFO - 📄 第 289 页完成 (35%)
+2026-04-17 09:23:30 - PDF-Extractor - INFO - 📄 第 290 页完成 (35%)
+2026-04-17 09:23:33 - PDF-Extractor - INFO - 📄 第 291 页完成 (35%)
+2026-04-17 09:23:39 - PDF-Extractor - INFO - 📄 第 292 页完成 (35%)
+2026-04-17 09:23:47 - PDF-Extractor - INFO - 📄 第 293 页完成 (35%)
+2026-04-17 09:23:52 - PDF-Extractor - INFO - 📄 第 294 页完成 (36%)
+2026-04-17 09:23:55 - PDF-Extractor - INFO - 📄 第 295 页完成 (36%)
+2026-04-17 09:23:59 - PDF-Extractor - INFO - 📄 第 296 页完成 (36%)
+2026-04-17 09:24:01 - PDF-Extractor - INFO - 📄 第 297 页完成 (36%)
+2026-04-17 09:24:06 - PDF-Extractor - INFO - 📄 第 298 页完成 (36%)
+2026-04-17 09:24:10 - PDF-Extractor - INFO - 📄 第 299 页完成 (36%)
+2026-04-17 09:24:13 - PDF-Extractor - INFO - 📄 第 300 页完成 (36%)
+2026-04-17 09:24:17 - PDF-Extractor - INFO - 📄 第 301 页完成 (36%)
+2026-04-17 09:24:26 - PDF-Extractor - INFO - 📄 第 302 页完成 (37%)
+2026-04-17 09:24:30 - PDF-Extractor - INFO - 📄 第 303 页完成 (37%)
+2026-04-17 09:24:37 - PDF-Extractor - INFO - 📄 第 304 页完成 (37%)
+2026-04-17 09:24:41 - PDF-Extractor - INFO - 📄 第 305 页完成 (37%)
+2026-04-17 09:24:45 - PDF-Extractor - INFO - 📄 第 306 页完成 (37%)
+2026-04-17 09:24:52 - PDF-Extractor - INFO - 📄 第 307 页完成 (37%)
+2026-04-17 09:25:00 - PDF-Extractor - INFO - 📄 第 308 页完成 (37%)
+2026-04-17 09:25:08 - PDF-Extractor - INFO - 📄 第 309 页完成 (37%)
+2026-04-17 09:25:16 - PDF-Extractor - INFO - 📄 第 310 页完成 (37%)
+2026-04-17 09:25:19 - PDF-Extractor - INFO - 📄 第 311 页完成 (38%)
+2026-04-17 09:25:22 - PDF-Extractor - INFO - 📄 第 312 页完成 (38%)
+2026-04-17 09:25:33 - PDF-Extractor - INFO - 📄 第 313 页完成 (38%)
+2026-04-17 09:25:40 - PDF-Extractor - INFO - 📄 第 314 页完成 (38%)
+2026-04-17 09:25:48 - PDF-Extractor - INFO - 📄 第 315 页完成 (38%)
+2026-04-17 09:25:52 - PDF-Extractor - INFO - 📄 第 316 页完成 (38%)
+2026-04-17 09:25:57 - PDF-Extractor - INFO - 📄 第 317 页完成 (38%)
+2026-04-17 09:26:04 - PDF-Extractor - INFO - 📄 第 318 页完成 (38%)
+2026-04-17 09:26:11 - PDF-Extractor - INFO - 📄 第 319 页完成 (39%)
+2026-04-17 09:26:17 - PDF-Extractor - INFO - 📄 第 320 页完成 (39%)
+2026-04-17 09:26:21 - PDF-Extractor - INFO - 📄 第 321 页完成 (39%)
+2026-04-17 09:26:26 - PDF-Extractor - INFO - 📄 第 322 页完成 (39%)
+2026-04-17 09:26:31 - PDF-Extractor - INFO - 📄 第 323 页完成 (39%)
+2026-04-17 09:26:39 - PDF-Extractor - INFO - 📄 第 324 页完成 (39%)
+2026-04-17 09:26:46 - PDF-Extractor - INFO - 📄 第 325 页完成 (39%)
+2026-04-17 09:26:49 - PDF-Extractor - INFO - 📄 第 326 页完成 (39%)
+2026-04-17 09:26:57 - PDF-Extractor - INFO - 📄 第 327 页完成 (40%)
+2026-04-17 09:27:06 - PDF-Extractor - INFO - 📄 第 328 页完成 (40%)
+2026-04-17 09:27:13 - PDF-Extractor - INFO - 📄 第 329 页完成 (40%)
+2026-04-17 09:27:21 - PDF-Extractor - INFO - 📄 第 330 页完成 (40%)
+2026-04-17 09:27:29 - PDF-Extractor - INFO - 📄 第 331 页完成 (40%)
+2026-04-17 09:27:33 - PDF-Extractor - INFO - 📄 第 332 页完成 (40%)
+2026-04-17 09:27:36 - PDF-Extractor - INFO - 📄 第 333 页完成 (40%)
+2026-04-17 09:27:41 - PDF-Extractor - INFO - 📄 第 334 页完成 (40%)
+2026-04-17 09:27:48 - PDF-Extractor - INFO - 📄 第 335 页完成 (41%)
+2026-04-17 09:27:56 - PDF-Extractor - INFO - 📄 第 336 页完成 (41%)
+2026-04-17 09:28:01 - PDF-Extractor - INFO - 📄 第 337 页完成 (41%)
+2026-04-17 09:28:02 - PDF-Extractor - INFO - 📄 第 338 页完成 (41%)
+2026-04-17 09:28:06 - PDF-Extractor - INFO - 📄 第 339 页完成 (41%)
+2026-04-17 09:28:09 - PDF-Extractor - INFO - 📄 第 340 页完成 (41%)
+2026-04-17 09:28:12 - PDF-Extractor - INFO - 📄 第 341 页完成 (41%)
+2026-04-17 09:28:15 - PDF-Extractor - INFO - 📄 第 342 页完成 (41%)
+2026-04-17 09:28:18 - PDF-Extractor - INFO - 📄 第 343 页完成 (41%)
+2026-04-17 09:28:21 - PDF-Extractor - INFO - 📄 第 344 页完成 (42%)
+2026-04-17 09:28:23 - PDF-Extractor - INFO - 📄 第 345 页完成 (42%)
+2026-04-17 09:28:30 - PDF-Extractor - INFO - 📄 第 346 页完成 (42%)
+2026-04-17 09:28:39 - PDF-Extractor - INFO - 📄 第 347 页完成 (42%)
+2026-04-17 09:28:49 - PDF-Extractor - INFO - 📄 第 348 页完成 (42%)
+2026-04-17 09:28:59 - PDF-Extractor - INFO - 📄 第 349 页完成 (42%)
+2026-04-17 09:29:11 - PDF-Extractor - INFO - 📄 第 350 页完成 (42%)
+2026-04-17 09:29:17 - PDF-Extractor - INFO - 📄 第 351 页完成 (42%)
+2026-04-17 09:29:22 - PDF-Extractor - INFO - 📄 第 352 页完成 (43%)
+2026-04-17 09:29:25 - PDF-Extractor - INFO - 📄 第 353 页完成 (43%)
+2026-04-17 09:29:28 - PDF-Extractor - INFO - 📄 第 354 页完成 (43%)
+2026-04-17 09:29:32 - PDF-Extractor - INFO - 📄 第 355 页完成 (43%)
+2026-04-17 09:29:34 - PDF-Extractor - INFO - 📄 第 356 页完成 (43%)
+2026-04-17 09:29:35 - PDF-Extractor - INFO - 📄 第 357 页完成 (43%)
+2026-04-17 09:29:42 - PDF-Extractor - INFO - 📄 第 358 页完成 (43%)
+2026-04-17 09:29:52 - PDF-Extractor - INFO - 📄 第 359 页完成 (43%)
+2026-04-17 09:30:03 - PDF-Extractor - INFO - 📄 第 360 页完成 (44%)
+2026-04-17 09:30:13 - PDF-Extractor - INFO - 📄 第 361 页完成 (44%)
+2026-04-17 09:30:24 - PDF-Extractor - INFO - 📄 第 362 页完成 (44%)
+2026-04-17 09:30:33 - PDF-Extractor - INFO - 📄 第 363 页完成 (44%)
+2026-04-17 09:30:42 - PDF-Extractor - INFO - 📄 第 364 页完成 (44%)
+2026-04-17 09:30:51 - PDF-Extractor - INFO - 📄 第 365 页完成 (44%)
+2026-04-17 09:31:00 - PDF-Extractor - INFO - 📄 第 366 页完成 (44%)
+2026-04-17 09:31:08 - PDF-Extractor - INFO - 📄 第 367 页完成 (44%)
+2026-04-17 09:31:19 - PDF-Extractor - INFO - 📄 第 368 页完成 (44%)
+2026-04-17 09:31:26 - PDF-Extractor - INFO - 📄 第 369 页完成 (45%)
+2026-04-17 09:31:32 - PDF-Extractor - INFO - 📄 第 370 页完成 (45%)
+2026-04-17 09:31:39 - PDF-Extractor - INFO - 📄 第 371 页完成 (45%)
+2026-04-17 09:31:44 - PDF-Extractor - INFO - 📄 第 372 页完成 (45%)
+2026-04-17 09:31:49 - PDF-Extractor - INFO - 📄 第 373 页完成 (45%)
+2026-04-17 09:31:55 - PDF-Extractor - INFO - 📄 第 374 页完成 (45%)
+2026-04-17 09:32:00 - PDF-Extractor - INFO - 📄 第 375 页完成 (45%)
+2026-04-17 09:32:07 - PDF-Extractor - INFO - 📄 第 376 页完成 (45%)
+2026-04-17 09:32:13 - PDF-Extractor - INFO - 📄 第 377 页完成 (46%)
+2026-04-17 09:32:20 - PDF-Extractor - INFO - 📄 第 378 页完成 (46%)
+2026-04-17 09:32:23 - PDF-Extractor - INFO - 📄 第 379 页完成 (46%)
+2026-04-17 09:32:26 - PDF-Extractor - INFO - 📄 第 380 页完成 (46%)
+2026-04-17 09:32:30 - PDF-Extractor - INFO - 📄 第 381 页完成 (46%)
+2026-04-17 09:32:34 - PDF-Extractor - INFO - 📄 第 382 页完成 (46%)
+2026-04-17 09:32:37 - PDF-Extractor - INFO - 📄 第 383 页完成 (46%)
+2026-04-17 09:32:42 - PDF-Extractor - INFO - 📄 第 384 页完成 (46%)
+2026-04-17 09:32:47 - PDF-Extractor - INFO - 📄 第 385 页完成 (47%)
+2026-04-17 09:32:50 - PDF-Extractor - INFO - 📄 第 386 页完成 (47%)
+2026-04-17 09:32:57 - PDF-Extractor - INFO - 📄 第 387 页完成 (47%)
+2026-04-17 09:33:02 - PDF-Extractor - INFO - 📄 第 388 页完成 (47%)
+2026-04-17 09:33:08 - PDF-Extractor - INFO - 📄 第 389 页完成 (47%)
+2026-04-17 09:33:11 - PDF-Extractor - INFO - 📄 第 390 页完成 (47%)
+2026-04-17 09:33:15 - PDF-Extractor - INFO - 📄 第 391 页完成 (47%)
+2026-04-17 09:33:20 - PDF-Extractor - INFO - 📄 第 392 页完成 (47%)
+2026-04-17 09:33:23 - PDF-Extractor - INFO - 📄 第 393 页完成 (48%)
+2026-04-17 09:33:28 - PDF-Extractor - INFO - 📄 第 394 页完成 (48%)
+2026-04-17 09:33:33 - PDF-Extractor - INFO - 📄 第 395 页完成 (48%)
+2026-04-17 09:33:37 - PDF-Extractor - INFO - 📄 第 396 页完成 (48%)
+2026-04-17 09:33:41 - PDF-Extractor - INFO - 📄 第 397 页完成 (48%)
+2026-04-17 09:33:45 - PDF-Extractor - INFO - 📄 第 398 页完成 (48%)
+2026-04-17 09:33:50 - PDF-Extractor - INFO - 📄 第 399 页完成 (48%)
+2026-04-17 09:33:55 - PDF-Extractor - INFO - 📄 第 400 页完成 (48%)
+2026-04-17 09:33:59 - PDF-Extractor - INFO - 📄 第 401 页完成 (48%)
+2026-04-17 09:34:06 - PDF-Extractor - INFO - 📄 第 402 页完成 (49%)
+2026-04-17 09:34:10 - PDF-Extractor - INFO - 📄 第 403 页完成 (49%)
+2026-04-17 09:34:15 - PDF-Extractor - INFO - 📄 第 404 页完成 (49%)
+2026-04-17 09:34:17 - PDF-Extractor - INFO - 📄 第 405 页完成 (49%)
+2026-04-17 09:34:23 - PDF-Extractor - INFO - 📄 第 406 页完成 (49%)
+2026-04-17 09:34:29 - PDF-Extractor - INFO - 📄 第 407 页完成 (49%)
+2026-04-17 09:34:34 - PDF-Extractor - INFO - 📄 第 408 页完成 (49%)
+2026-04-17 09:34:39 - PDF-Extractor - INFO - 📄 第 409 页完成 (49%)
+2026-04-17 09:34:43 - PDF-Extractor - INFO - 📄 第 410 页完成 (50%)
+2026-04-17 09:34:47 - PDF-Extractor - INFO - 📄 第 411 页完成 (50%)
+2026-04-17 09:34:52 - PDF-Extractor - INFO - 📄 第 412 页完成 (50%)
+2026-04-17 09:34:58 - PDF-Extractor - INFO - 📄 第 413 页完成 (50%)
+2026-04-17 09:35:02 - PDF-Extractor - INFO - 📄 第 414 页完成 (50%)
+2026-04-17 09:35:06 - PDF-Extractor - INFO - 📄 第 415 页完成 (50%)
+2026-04-17 09:35:11 - PDF-Extractor - INFO - 📄 第 416 页完成 (50%)
+2026-04-17 09:35:16 - PDF-Extractor - INFO - 📄 第 417 页完成 (50%)
+2026-04-17 09:35:20 - PDF-Extractor - INFO - 📄 第 418 页完成 (51%)
+2026-04-17 09:35:25 - PDF-Extractor - INFO - 📄 第 419 页完成 (51%)
+2026-04-17 09:35:31 - PDF-Extractor - INFO - 📄 第 420 页完成 (51%)
+2026-04-17 09:35:35 - PDF-Extractor - INFO - 📄 第 421 页完成 (51%)
+2026-04-17 09:35:39 - PDF-Extractor - INFO - 📄 第 422 页完成 (51%)
+2026-04-17 09:35:43 - PDF-Extractor - INFO - 📄 第 423 页完成 (51%)
+2026-04-17 09:35:49 - PDF-Extractor - INFO - 📄 第 424 页完成 (51%)
+2026-04-17 09:35:53 - PDF-Extractor - INFO - 📄 第 425 页完成 (51%)
+2026-04-17 09:35:58 - PDF-Extractor - INFO - 📄 第 426 页完成 (52%)
+2026-04-17 09:36:02 - PDF-Extractor - INFO - 📄 第 427 页完成 (52%)
+2026-04-17 09:36:08 - PDF-Extractor - INFO - 📄 第 428 页完成 (52%)
+2026-04-17 09:36:12 - PDF-Extractor - INFO - 📄 第 429 页完成 (52%)
+2026-04-17 09:36:19 - PDF-Extractor - INFO - 📄 第 430 页完成 (52%)
+2026-04-17 09:36:23 - PDF-Extractor - INFO - 📄 第 431 页完成 (52%)
+2026-04-17 09:36:28 - PDF-Extractor - INFO - 📄 第 432 页完成 (52%)
+2026-04-17 09:36:33 - PDF-Extractor - INFO - 📄 第 433 页完成 (52%)
+2026-04-17 09:36:37 - PDF-Extractor - INFO - 📄 第 434 页完成 (52%)
+2026-04-17 09:36:41 - PDF-Extractor - INFO - 📄 第 435 页完成 (53%)
+2026-04-17 09:36:44 - PDF-Extractor - INFO - 📄 第 436 页完成 (53%)
+2026-04-17 09:36:50 - PDF-Extractor - INFO - 📄 第 437 页完成 (53%)
+2026-04-17 09:36:53 - PDF-Extractor - INFO - 📄 第 438 页完成 (53%)
+2026-04-17 09:36:58 - PDF-Extractor - INFO - 📄 第 439 页完成 (53%)
+2026-04-17 09:37:02 - PDF-Extractor - INFO - 📄 第 440 页完成 (53%)
+2026-04-17 09:37:07 - PDF-Extractor - INFO - 📄 第 441 页完成 (53%)
+2026-04-17 09:37:15 - PDF-Extractor - INFO - 📄 第 442 页完成 (53%)
+2026-04-17 09:37:19 - PDF-Extractor - INFO - 📄 第 443 页完成 (54%)
+2026-04-17 09:37:22 - PDF-Extractor - INFO - 📄 第 444 页完成 (54%)
+2026-04-17 09:37:27 - PDF-Extractor - INFO - 📄 第 445 页完成 (54%)
+2026-04-17 09:37:33 - PDF-Extractor - INFO - 📄 第 446 页完成 (54%)
+2026-04-17 09:37:38 - PDF-Extractor - INFO - 📄 第 447 页完成 (54%)
+2026-04-17 09:37:43 - PDF-Extractor - INFO - 📄 第 448 页完成 (54%)
+2026-04-17 09:37:48 - PDF-Extractor - INFO - 📄 第 449 页完成 (54%)
+2026-04-17 09:37:52 - PDF-Extractor - INFO - 📄 第 450 页完成 (54%)
+2026-04-17 09:37:57 - PDF-Extractor - INFO - 📄 第 451 页完成 (55%)
+2026-04-17 09:38:01 - PDF-Extractor - INFO - 📄 第 452 页完成 (55%)
+2026-04-17 09:38:04 - PDF-Extractor - INFO - 📄 第 453 页完成 (55%)
+2026-04-17 09:38:09 - PDF-Extractor - INFO - 📄 第 454 页完成 (55%)
+2026-04-17 09:38:13 - PDF-Extractor - INFO - 📄 第 455 页完成 (55%)
+2026-04-17 09:38:18 - PDF-Extractor - INFO - 📄 第 456 页完成 (55%)
+2026-04-17 09:38:22 - PDF-Extractor - INFO - 📄 第 457 页完成 (55%)
+2026-04-17 09:38:27 - PDF-Extractor - INFO - 📄 第 458 页完成 (55%)
+2026-04-17 09:38:32 - PDF-Extractor - INFO - 📄 第 459 页完成 (56%)
+2026-04-17 09:38:36 - PDF-Extractor - INFO - 📄 第 460 页完成 (56%)
+2026-04-17 09:38:41 - PDF-Extractor - INFO - 📄 第 461 页完成 (56%)
+2026-04-17 09:38:44 - PDF-Extractor - INFO - 📄 第 462 页完成 (56%)
+2026-04-17 09:38:49 - PDF-Extractor - INFO - 📄 第 463 页完成 (56%)
+2026-04-17 09:38:54 - PDF-Extractor - INFO - 📄 第 464 页完成 (56%)
+2026-04-17 09:39:00 - PDF-Extractor - INFO - 📄 第 465 页完成 (56%)
+2026-04-17 09:39:04 - PDF-Extractor - INFO - 📄 第 466 页完成 (56%)
+2026-04-17 09:39:08 - PDF-Extractor - INFO - 📄 第 467 页完成 (56%)
+2026-04-17 09:39:13 - PDF-Extractor - INFO - 📄 第 468 页完成 (57%)
+2026-04-17 09:39:18 - PDF-Extractor - INFO - 📄 第 469 页完成 (57%)
+2026-04-17 09:39:21 - PDF-Extractor - INFO - 📄 第 470 页完成 (57%)
+2026-04-17 09:39:24 - PDF-Extractor - INFO - 📄 第 471 页完成 (57%)
+2026-04-17 09:39:27 - PDF-Extractor - INFO - 📄 第 472 页完成 (57%)
+2026-04-17 09:39:33 - PDF-Extractor - INFO - 📄 第 473 页完成 (57%)
+2026-04-17 09:39:37 - PDF-Extractor - INFO - 📄 第 474 页完成 (57%)
+2026-04-17 09:39:41 - PDF-Extractor - INFO - 📄 第 475 页完成 (57%)
+2026-04-17 09:39:45 - PDF-Extractor - INFO - 📄 第 476 页完成 (58%)
+2026-04-17 09:39:51 - PDF-Extractor - INFO - 📄 第 477 页完成 (58%)
+2026-04-17 09:39:55 - PDF-Extractor - INFO - 📄 第 478 页完成 (58%)
+2026-04-17 09:40:00 - PDF-Extractor - INFO - 📄 第 479 页完成 (58%)
+2026-04-17 09:40:04 - PDF-Extractor - INFO - 📄 第 480 页完成 (58%)
+2026-04-17 09:40:08 - PDF-Extractor - INFO - 📄 第 481 页完成 (58%)
+2026-04-17 09:40:13 - PDF-Extractor - INFO - 📄 第 482 页完成 (58%)
+2026-04-17 09:40:18 - PDF-Extractor - INFO - 📄 第 483 页完成 (58%)
+2026-04-17 09:40:21 - PDF-Extractor - INFO - 📄 第 484 页完成 (59%)
+2026-04-17 09:40:25 - PDF-Extractor - INFO - 📄 第 485 页完成 (59%)
+2026-04-17 09:40:26 - PDF-Extractor - INFO - 📄 第 486 页完成 (59%)
+2026-04-17 09:40:32 - PDF-Extractor - INFO - 📄 第 487 页完成 (59%)
+2026-04-17 09:40:36 - PDF-Extractor - INFO - 📄 第 488 页完成 (59%)
+2026-04-17 09:40:40 - PDF-Extractor - INFO - 📄 第 489 页完成 (59%)
+2026-04-17 09:40:47 - PDF-Extractor - INFO - 📄 第 490 页完成 (59%)
+2026-04-17 09:40:50 - PDF-Extractor - INFO - 📄 第 491 页完成 (59%)
+2026-04-17 09:40:56 - PDF-Extractor - INFO - 📄 第 492 页完成 (59%)
+2026-04-17 09:41:00 - PDF-Extractor - INFO - 📄 第 493 页完成 (60%)
+2026-04-17 09:41:04 - PDF-Extractor - INFO - 📄 第 494 页完成 (60%)
+2026-04-17 09:41:10 - PDF-Extractor - INFO - 📄 第 495 页完成 (60%)
+2026-04-17 09:41:13 - PDF-Extractor - INFO - 📄 第 496 页完成 (60%)
+2026-04-17 09:41:20 - PDF-Extractor - INFO - 📄 第 497 页完成 (60%)
+2026-04-17 09:41:25 - PDF-Extractor - INFO - 📄 第 498 页完成 (60%)
+2026-04-17 09:41:30 - PDF-Extractor - INFO - 📄 第 499 页完成 (60%)
+2026-04-17 09:41:34 - PDF-Extractor - INFO - 📄 第 500 页完成 (60%)
+2026-04-17 09:41:38 - PDF-Extractor - INFO - 📄 第 501 页完成 (61%)
+2026-04-17 09:41:50 - PDF-Extractor - INFO - 📄 第 502 页完成 (61%)
+2026-04-17 09:42:02 - PDF-Extractor - INFO - 📄 第 503 页完成 (61%)
+2026-04-17 09:42:09 - PDF-Extractor - INFO - 📄 第 504 页完成 (61%)
+2026-04-17 09:42:12 - PDF-Extractor - INFO - 📄 第 505 页完成 (61%)
+2026-04-17 09:42:14 - PDF-Extractor - INFO - 📄 第 506 页完成 (61%)
+2026-04-17 09:42:24 - PDF-Extractor - INFO - 📄 第 507 页完成 (61%)
+2026-04-17 09:42:32 - PDF-Extractor - INFO - 📄 第 508 页完成 (61%)
+2026-04-17 09:42:39 - PDF-Extractor - INFO - 📄 第 509 页完成 (62%)
+2026-04-17 09:42:47 - PDF-Extractor - INFO - 📄 第 510 页完成 (62%)
+2026-04-17 09:42:56 - PDF-Extractor - INFO - 📄 第 511 页完成 (62%)
+2026-04-17 09:43:07 - PDF-Extractor - INFO - 📄 第 512 页完成 (62%)
+2026-04-17 09:43:13 - PDF-Extractor - INFO - 📄 第 513 页完成 (62%)
+2026-04-17 09:43:20 - PDF-Extractor - INFO - 📄 第 514 页完成 (62%)
+2026-04-17 09:43:31 - PDF-Extractor - INFO - 📄 第 515 页完成 (62%)
+2026-04-17 09:43:43 - PDF-Extractor - INFO - 📄 第 516 页完成 (62%)
+2026-04-17 09:43:46 - PDF-Extractor - INFO - 📄 第 517 页完成 (63%)
+2026-04-17 09:43:53 - PDF-Extractor - INFO - 📄 第 518 页完成 (63%)
+2026-04-17 09:43:59 - PDF-Extractor - INFO - 📄 第 519 页完成 (63%)
+2026-04-17 09:44:04 - PDF-Extractor - INFO - 📄 第 520 页完成 (63%)
+2026-04-17 09:44:09 - PDF-Extractor - INFO - 📄 第 521 页完成 (63%)
+2026-04-17 09:44:14 - PDF-Extractor - INFO - 📄 第 522 页完成 (63%)
+2026-04-17 09:44:20 - PDF-Extractor - INFO - 📄 第 523 页完成 (63%)
+2026-04-17 09:44:25 - PDF-Extractor - INFO - 📄 第 524 页完成 (63%)
+2026-04-17 09:44:29 - PDF-Extractor - INFO - 📄 第 525 页完成 (63%)
+2026-04-17 09:44:35 - PDF-Extractor - INFO - 📄 第 526 页完成 (64%)
+2026-04-17 09:44:38 - PDF-Extractor - INFO - 📄 第 527 页完成 (64%)
+2026-04-17 09:44:43 - PDF-Extractor - INFO - 📄 第 528 页完成 (64%)
+2026-04-17 09:44:48 - PDF-Extractor - INFO - 📄 第 529 页完成 (64%)
+2026-04-17 09:44:59 - PDF-Extractor - INFO - 📄 第 530 页完成 (64%)
+2026-04-17 09:45:03 - PDF-Extractor - INFO - 📄 第 531 页完成 (64%)
+2026-04-17 09:45:08 - PDF-Extractor - INFO - 📄 第 532 页完成 (64%)
+2026-04-17 09:45:14 - PDF-Extractor - INFO - 📄 第 533 页完成 (64%)
+2026-04-17 09:45:19 - PDF-Extractor - INFO - 📄 第 534 页完成 (65%)
+2026-04-17 09:45:28 - PDF-Extractor - INFO - 📄 第 535 页完成 (65%)
+2026-04-17 09:45:34 - PDF-Extractor - INFO - 📄 第 536 页完成 (65%)
+2026-04-17 09:45:42 - PDF-Extractor - INFO - 📄 第 537 页完成 (65%)
+2026-04-17 09:45:47 - PDF-Extractor - INFO - 📄 第 538 页完成 (65%)
+2026-04-17 09:45:52 - PDF-Extractor - INFO - 📄 第 539 页完成 (65%)
+2026-04-17 09:46:01 - PDF-Extractor - INFO - 📄 第 540 页完成 (65%)
+2026-04-17 09:46:07 - PDF-Extractor - INFO - 📄 第 541 页完成 (65%)
+2026-04-17 09:46:12 - PDF-Extractor - INFO - 📄 第 542 页完成 (66%)
+2026-04-17 09:46:17 - PDF-Extractor - INFO - 📄 第 543 页完成 (66%)
+2026-04-17 09:46:22 - PDF-Extractor - INFO - 📄 第 544 页完成 (66%)
+2026-04-17 09:46:30 - PDF-Extractor - INFO - 📄 第 545 页完成 (66%)
+2026-04-17 09:46:35 - PDF-Extractor - INFO - 📄 第 546 页完成 (66%)
+2026-04-17 09:46:38 - PDF-Extractor - INFO - 📄 第 547 页完成 (66%)
+2026-04-17 09:46:44 - PDF-Extractor - INFO - 📄 第 548 页完成 (66%)
+2026-04-17 09:46:51 - PDF-Extractor - INFO - 📄 第 549 页完成 (66%)
+2026-04-17 09:46:55 - PDF-Extractor - INFO - 📄 第 550 页完成 (67%)
+2026-04-17 09:47:01 - PDF-Extractor - INFO - 📄 第 551 页完成 (67%)
+2026-04-17 09:47:08 - PDF-Extractor - INFO - 📄 第 552 页完成 (67%)
+2026-04-17 09:47:13 - PDF-Extractor - INFO - 📄 第 553 页完成 (67%)
+2026-04-17 09:47:20 - PDF-Extractor - INFO - 📄 第 554 页完成 (67%)
+2026-04-17 09:47:24 - PDF-Extractor - INFO - 📄 第 555 页完成 (67%)
+2026-04-17 09:47:29 - PDF-Extractor - INFO - 📄 第 556 页完成 (67%)
+2026-04-17 09:47:37 - PDF-Extractor - INFO - 📄 第 557 页完成 (67%)
+2026-04-17 09:47:44 - PDF-Extractor - INFO - 📄 第 558 页完成 (67%)
+2026-04-17 09:47:48 - PDF-Extractor - INFO - 📄 第 559 页完成 (68%)
+2026-04-17 09:47:54 - PDF-Extractor - INFO - 📄 第 560 页完成 (68%)
+2026-04-17 09:48:02 - PDF-Extractor - INFO - 📄 第 561 页完成 (68%)
+2026-04-17 09:48:11 - PDF-Extractor - INFO - 📄 第 562 页完成 (68%)
+2026-04-17 09:48:15 - PDF-Extractor - INFO - 📄 第 563 页完成 (68%)
+2026-04-17 09:48:19 - PDF-Extractor - INFO - 📄 第 564 页完成 (68%)
+2026-04-17 09:48:24 - PDF-Extractor - INFO - 📄 第 565 页完成 (68%)
+2026-04-17 09:48:32 - PDF-Extractor - INFO - 📄 第 566 页完成 (68%)
+2026-04-17 09:48:36 - PDF-Extractor - INFO - 📄 第 567 页完成 (69%)
+2026-04-17 09:48:39 - PDF-Extractor - INFO - 📄 第 568 页完成 (69%)
+2026-04-17 09:48:45 - PDF-Extractor - INFO - 📄 第 569 页完成 (69%)
+2026-04-17 09:48:52 - PDF-Extractor - INFO - 📄 第 570 页完成 (69%)
+2026-04-17 09:48:57 - PDF-Extractor - INFO - 📄 第 571 页完成 (69%)
+2026-04-17 09:49:01 - PDF-Extractor - INFO - 📄 第 572 页完成 (69%)
+2026-04-17 09:49:04 - PDF-Extractor - INFO - 📄 第 573 页完成 (69%)
+2026-04-17 09:49:08 - PDF-Extractor - INFO - 📄 第 574 页完成 (69%)
+2026-04-17 09:49:12 - PDF-Extractor - INFO - 📄 第 575 页完成 (70%)
+2026-04-17 09:49:17 - PDF-Extractor - INFO - 📄 第 576 页完成 (70%)
+2026-04-17 09:49:23 - PDF-Extractor - INFO - 📄 第 577 页完成 (70%)
+2026-04-17 09:49:32 - PDF-Extractor - INFO - 📄 第 578 页完成 (70%)
+2026-04-17 09:49:36 - PDF-Extractor - INFO - 📄 第 579 页完成 (70%)
+2026-04-17 09:49:41 - PDF-Extractor - INFO - 📄 第 580 页完成 (70%)
+2026-04-17 09:49:47 - PDF-Extractor - INFO - 📄 第 581 页完成 (70%)
+2026-04-17 09:49:53 - PDF-Extractor - INFO - 📄 第 582 页完成 (70%)
+2026-04-17 09:50:01 - PDF-Extractor - INFO - 📄 第 583 页完成 (70%)
+2026-04-17 09:50:12 - PDF-Extractor - INFO - 📄 第 584 页完成 (71%)
+2026-04-17 09:50:16 - PDF-Extractor - INFO - 📄 第 585 页完成 (71%)
+2026-04-17 09:50:21 - PDF-Extractor - INFO - 📄 第 586 页完成 (71%)
+2026-04-17 09:50:27 - PDF-Extractor - INFO - 📄 第 587 页完成 (71%)
+2026-04-17 09:50:33 - PDF-Extractor - INFO - 📄 第 588 页完成 (71%)
+2026-04-17 09:50:39 - PDF-Extractor - INFO - 📄 第 589 页完成 (71%)
+2026-04-17 09:50:45 - PDF-Extractor - INFO - 📄 第 590 页完成 (71%)
+2026-04-17 09:50:50 - PDF-Extractor - INFO - 📄 第 591 页完成 (71%)
+2026-04-17 09:50:55 - PDF-Extractor - INFO - 📄 第 592 页完成 (72%)
+2026-04-17 09:51:01 - PDF-Extractor - INFO - 📄 第 593 页完成 (72%)
+2026-04-17 09:51:07 - PDF-Extractor - INFO - 📄 第 594 页完成 (72%)
+2026-04-17 09:51:11 - PDF-Extractor - INFO - 📄 第 595 页完成 (72%)
+2026-04-17 09:51:16 - PDF-Extractor - INFO - 📄 第 596 页完成 (72%)
+2026-04-17 09:51:19 - PDF-Extractor - INFO - 📄 第 597 页完成 (72%)
+2026-04-17 09:51:25 - PDF-Extractor - INFO - 📄 第 598 页完成 (72%)
+2026-04-17 09:51:29 - PDF-Extractor - INFO - 📄 第 599 页完成 (72%)
+2026-04-17 09:51:34 - PDF-Extractor - INFO - 📄 第 600 页完成 (73%)
+2026-04-17 09:51:39 - PDF-Extractor - INFO - 📄 第 601 页完成 (73%)
+2026-04-17 09:51:44 - PDF-Extractor - INFO - 📄 第 602 页完成 (73%)
+2026-04-17 09:51:47 - PDF-Extractor - INFO - 📄 第 603 页完成 (73%)
+2026-04-17 09:51:51 - PDF-Extractor - INFO - 📄 第 604 页完成 (73%)
+2026-04-17 09:51:55 - PDF-Extractor - INFO - 📄 第 605 页完成 (73%)
+2026-04-17 09:51:59 - PDF-Extractor - INFO - 📄 第 606 页完成 (73%)
+2026-04-17 09:52:03 - PDF-Extractor - INFO - 📄 第 607 页完成 (73%)
+2026-04-17 09:52:07 - PDF-Extractor - INFO - 📄 第 608 页完成 (74%)
+2026-04-17 09:52:11 - PDF-Extractor - INFO - 📄 第 609 页完成 (74%)
+2026-04-17 09:52:14 - PDF-Extractor - INFO - 📄 第 610 页完成 (74%)
+2026-04-17 09:52:18 - PDF-Extractor - INFO - 📄 第 611 页完成 (74%)
+2026-04-17 09:52:24 - PDF-Extractor - INFO - 📄 第 612 页完成 (74%)
+2026-04-17 09:52:29 - PDF-Extractor - INFO - 📄 第 613 页完成 (74%)
+2026-04-17 09:52:35 - PDF-Extractor - INFO - 📄 第 614 页完成 (74%)
+2026-04-17 09:52:40 - PDF-Extractor - INFO - 📄 第 615 页完成 (74%)
+2026-04-17 09:52:44 - PDF-Extractor - INFO - 📄 第 616 页完成 (74%)
+2026-04-17 09:52:49 - PDF-Extractor - INFO - 📄 第 617 页完成 (75%)
+2026-04-17 09:52:52 - PDF-Extractor - INFO - 📄 第 618 页完成 (75%)
+2026-04-17 09:52:56 - PDF-Extractor - INFO - 📄 第 619 页完成 (75%)
+2026-04-17 09:52:59 - PDF-Extractor - INFO - 📄 第 620 页完成 (75%)
+2026-04-17 09:53:03 - PDF-Extractor - INFO - 📄 第 621 页完成 (75%)
+2026-04-17 09:53:06 - PDF-Extractor - INFO - 📄 第 622 页完成 (75%)
+2026-04-17 09:53:09 - PDF-Extractor - INFO - 📄 第 623 页完成 (75%)
+2026-04-17 09:53:13 - PDF-Extractor - INFO - 📄 第 624 页完成 (75%)
+2026-04-17 09:53:19 - PDF-Extractor - INFO - 📄 第 625 页完成 (76%)
+2026-04-17 09:53:22 - PDF-Extractor - INFO - 📄 第 626 页完成 (76%)
+2026-04-17 09:53:26 - PDF-Extractor - INFO - 📄 第 627 页完成 (76%)
+2026-04-17 09:53:29 - PDF-Extractor - INFO - 📄 第 628 页完成 (76%)
+2026-04-17 09:53:33 - PDF-Extractor - INFO - 📄 第 629 页完成 (76%)
+2026-04-17 09:53:38 - PDF-Extractor - INFO - 📄 第 630 页完成 (76%)
+2026-04-17 09:53:47 - PDF-Extractor - INFO - 📄 第 631 页完成 (76%)
+2026-04-17 09:53:51 - PDF-Extractor - INFO - 📄 第 632 页完成 (76%)
+2026-04-17 09:53:54 - PDF-Extractor - INFO - 📄 第 633 页完成 (77%)
+2026-04-17 09:53:58 - PDF-Extractor - INFO - 📄 第 634 页完成 (77%)
+2026-04-17 09:54:06 - PDF-Extractor - INFO - 📄 第 635 页完成 (77%)
+2026-04-17 09:54:09 - PDF-Extractor - INFO - 📄 第 636 页完成 (77%)
+2026-04-17 09:54:13 - PDF-Extractor - INFO - 📄 第 637 页完成 (77%)
+2026-04-17 09:54:17 - PDF-Extractor - INFO - 📄 第 638 页完成 (77%)
+2026-04-17 09:54:21 - PDF-Extractor - INFO - 📄 第 639 页完成 (77%)
+2026-04-17 09:54:25 - PDF-Extractor - INFO - 📄 第 640 页完成 (77%)
+2026-04-17 09:54:34 - PDF-Extractor - INFO - 📄 第 641 页完成 (78%)
+2026-04-17 09:54:39 - PDF-Extractor - INFO - 📄 第 642 页完成 (78%)
+2026-04-17 09:54:43 - PDF-Extractor - INFO - 📄 第 643 页完成 (78%)
+2026-04-17 09:54:46 - PDF-Extractor - INFO - 📄 第 644 页完成 (78%)
+2026-04-17 09:54:50 - PDF-Extractor - INFO - 📄 第 645 页完成 (78%)
+2026-04-17 09:54:53 - PDF-Extractor - INFO - 📄 第 646 页完成 (78%)
+2026-04-17 09:55:06 - PDF-Extractor - INFO - 📄 第 647 页完成 (78%)
+2026-04-17 09:55:23 - PDF-Extractor - INFO - 📄 第 648 页完成 (78%)
+2026-04-17 09:55:34 - PDF-Extractor - INFO - 📄 第 649 页完成 (78%)
+2026-04-17 09:55:49 - PDF-Extractor - INFO - 📄 第 650 页完成 (79%)
+2026-04-17 09:56:04 - PDF-Extractor - INFO - 📄 第 651 页完成 (79%)
+2026-04-17 09:56:23 - PDF-Extractor - INFO - 📄 第 652 页完成 (79%)
+2026-04-17 09:56:38 - PDF-Extractor - INFO - 📄 第 653 页完成 (79%)
+2026-04-17 09:56:55 - PDF-Extractor - INFO - 📄 第 654 页完成 (79%)
+2026-04-17 09:57:11 - PDF-Extractor - INFO - 📄 第 655 页完成 (79%)
+2026-04-17 09:57:28 - PDF-Extractor - INFO - 📄 第 656 页完成 (79%)
+2026-04-17 09:57:46 - PDF-Extractor - INFO - 📄 第 657 页完成 (79%)
+2026-04-17 09:58:01 - PDF-Extractor - INFO - 📄 第 658 页完成 (80%)
+2026-04-17 09:58:19 - PDF-Extractor - INFO - 📄 第 659 页完成 (80%)
+2026-04-17 09:58:34 - PDF-Extractor - INFO - 📄 第 660 页完成 (80%)
+2026-04-17 09:58:41 - PDF-Extractor - INFO - 📄 第 661 页完成 (80%)
+2026-04-17 09:58:46 - PDF-Extractor - INFO - 📄 第 662 页完成 (80%)
+2026-04-17 09:58:57 - PDF-Extractor - INFO - 📄 第 663 页完成 (80%)
+2026-04-17 09:59:15 - PDF-Extractor - INFO - 📄 第 664 页完成 (80%)
+2026-04-17 09:59:31 - PDF-Extractor - INFO - 📄 第 665 页完成 (80%)
+2026-04-17 09:59:48 - PDF-Extractor - INFO - 📄 第 666 页完成 (81%)
+2026-04-17 09:59:58 - PDF-Extractor - INFO - 📄 第 667 页完成 (81%)
+2026-04-17 09:59:58 - PDF-Extractor - INFO - 📄 第 668 页完成 (81%)
+2026-04-17 10:00:11 - PDF-Extractor - INFO - 📄 第 669 页完成 (81%)
+2026-04-17 10:00:25 - PDF-Extractor - INFO - 📄 第 670 页完成 (81%)
+2026-04-17 10:00:34 - PDF-Extractor - INFO - 📄 第 671 页完成 (81%)
+2026-04-17 10:00:47 - PDF-Extractor - INFO - 📄 第 672 页完成 (81%)
+2026-04-17 10:01:03 - PDF-Extractor - INFO - 📄 第 673 页完成 (81%)
+2026-04-17 10:01:08 - PDF-Extractor - INFO - 📄 第 674 页完成 (81%)
+2026-04-17 10:01:12 - PDF-Extractor - INFO - 📄 第 675 页完成 (82%)
+2026-04-17 10:01:21 - PDF-Extractor - INFO - 📄 第 676 页完成 (82%)
+2026-04-17 10:01:28 - PDF-Extractor - INFO - 📄 第 677 页完成 (82%)
+2026-04-17 10:01:39 - PDF-Extractor - INFO - 📄 第 678 页完成 (82%)
+2026-04-17 10:01:44 - PDF-Extractor - INFO - 📄 第 679 页完成 (82%)
+2026-04-17 10:02:01 - PDF-Extractor - INFO - 📄 第 680 页完成 (82%)
+2026-04-17 10:02:10 - PDF-Extractor - INFO - 📄 第 681 页完成 (82%)
+2026-04-17 10:02:14 - PDF-Extractor - INFO - 📄 第 682 页完成 (82%)
+2026-04-17 10:02:27 - PDF-Extractor - INFO - 📄 第 683 页完成 (83%)
+2026-04-17 10:02:32 - PDF-Extractor - INFO - 📄 第 684 页完成 (83%)
+2026-04-17 10:02:37 - PDF-Extractor - INFO - 📄 第 685 页完成 (83%)
+2026-04-17 10:02:41 - PDF-Extractor - INFO - 📄 第 686 页完成 (83%)
+2026-04-17 10:02:47 - PDF-Extractor - INFO - 📄 第 687 页完成 (83%)
+2026-04-17 10:02:52 - PDF-Extractor - INFO - 📄 第 688 页完成 (83%)
+2026-04-17 10:03:01 - PDF-Extractor - INFO - 📄 第 689 页完成 (83%)
+2026-04-17 10:03:05 - PDF-Extractor - INFO - 📄 第 690 页完成 (83%)
+2026-04-17 10:03:09 - PDF-Extractor - INFO - 📄 第 691 页完成 (84%)
+2026-04-17 10:03:16 - PDF-Extractor - INFO - 📄 第 692 页完成 (84%)
+2026-04-17 10:03:20 - PDF-Extractor - INFO - 📄 第 693 页完成 (84%)
+2026-04-17 10:03:23 - PDF-Extractor - INFO - 📄 第 694 页完成 (84%)
+2026-04-17 10:03:26 - PDF-Extractor - INFO - 📄 第 695 页完成 (84%)
+2026-04-17 10:03:31 - PDF-Extractor - INFO - 📄 第 696 页完成 (84%)
+2026-04-17 10:03:43 - PDF-Extractor - INFO - 📄 第 697 页完成 (84%)
+2026-04-17 10:03:49 - PDF-Extractor - INFO - 📄 第 698 页完成 (84%)
+2026-04-17 10:03:57 - PDF-Extractor - INFO - 📄 第 699 页完成 (85%)
+2026-04-17 10:04:14 - PDF-Extractor - INFO - 📄 第 700 页完成 (85%)
+2026-04-17 10:04:31 - PDF-Extractor - INFO - 📄 第 701 页完成 (85%)
+2026-04-17 10:04:48 - PDF-Extractor - INFO - 📄 第 702 页完成 (85%)
+2026-04-17 10:05:03 - PDF-Extractor - INFO - 📄 第 703 页完成 (85%)
+2026-04-17 10:05:20 - PDF-Extractor - INFO - 📄 第 704 页完成 (85%)
+2026-04-17 10:05:38 - PDF-Extractor - INFO - 📄 第 705 页完成 (85%)
+2026-04-17 10:05:54 - PDF-Extractor - INFO - 📄 第 706 页完成 (85%)
+2026-04-17 10:06:13 - PDF-Extractor - INFO - 📄 第 707 页完成 (85%)
+2026-04-17 10:06:28 - PDF-Extractor - INFO - 📄 第 708 页完成 (86%)
+2026-04-17 10:06:46 - PDF-Extractor - INFO - 📄 第 709 页完成 (86%)
+2026-04-17 10:07:02 - PDF-Extractor - INFO - 📄 第 710 页完成 (86%)
+2026-04-17 10:07:19 - PDF-Extractor - INFO - 📄 第 711 页完成 (86%)
+2026-04-17 10:07:28 - PDF-Extractor - INFO - 📄 第 712 页完成 (86%)
+2026-04-17 10:07:32 - PDF-Extractor - INFO - 📄 第 713 页完成 (86%)
+2026-04-17 10:07:38 - PDF-Extractor - INFO - 📄 第 714 页完成 (86%)
+2026-04-17 10:07:44 - PDF-Extractor - INFO - 📄 第 715 页完成 (86%)
+2026-04-17 10:07:49 - PDF-Extractor - INFO - 📄 第 716 页完成 (87%)
+2026-04-17 10:07:54 - PDF-Extractor - INFO - 📄 第 717 页完成 (87%)
+2026-04-17 10:07:57 - PDF-Extractor - INFO - 📄 第 718 页完成 (87%)
+2026-04-17 10:08:03 - PDF-Extractor - INFO - 📄 第 719 页完成 (87%)
+2026-04-17 10:08:09 - PDF-Extractor - INFO - 📄 第 720 页完成 (87%)
+2026-04-17 10:08:24 - PDF-Extractor - INFO - 📄 第 721 页完成 (87%)
+2026-04-17 10:08:42 - PDF-Extractor - INFO - 📄 第 722 页完成 (87%)
+2026-04-17 10:08:57 - PDF-Extractor - INFO - 📄 第 723 页完成 (87%)
+2026-04-17 10:09:14 - PDF-Extractor - INFO - 📄 第 724 页完成 (88%)
+2026-04-17 10:09:23 - PDF-Extractor - INFO - 📄 第 725 页完成 (88%)
+2026-04-17 10:09:35 - PDF-Extractor - INFO - 📄 第 726 页完成 (88%)
+2026-04-17 10:09:40 - PDF-Extractor - INFO - 📄 第 727 页完成 (88%)
+2026-04-17 10:09:49 - PDF-Extractor - INFO - 📄 第 728 页完成 (88%)
+2026-04-17 10:10:06 - PDF-Extractor - INFO - 📄 第 729 页完成 (88%)
+2026-04-17 10:10:10 - PDF-Extractor - INFO - 📄 第 730 页完成 (88%)
+2026-04-17 10:10:14 - PDF-Extractor - INFO - 📄 第 731 页完成 (88%)
+2026-04-17 10:10:18 - PDF-Extractor - INFO - 📄 第 732 页完成 (89%)
+2026-04-17 10:10:22 - PDF-Extractor - INFO - 📄 第 733 页完成 (89%)
+2026-04-17 10:10:30 - PDF-Extractor - INFO - 📄 第 734 页完成 (89%)
+2026-04-17 10:10:44 - PDF-Extractor - INFO - 📄 第 735 页完成 (89%)
+2026-04-17 10:10:48 - PDF-Extractor - INFO - 📄 第 736 页完成 (89%)
+2026-04-17 10:10:54 - PDF-Extractor - INFO - 📄 第 737 页完成 (89%)
+2026-04-17 10:10:57 - PDF-Extractor - INFO - 📄 第 738 页完成 (89%)
+2026-04-17 10:11:00 - PDF-Extractor - INFO - 📄 第 739 页完成 (89%)
+2026-04-17 10:11:03 - PDF-Extractor - INFO - 📄 第 740 页完成 (89%)
+2026-04-17 10:11:09 - PDF-Extractor - INFO - 📄 第 741 页完成 (90%)
+2026-04-17 10:11:13 - PDF-Extractor - INFO - 📄 第 742 页完成 (90%)
+2026-04-17 10:11:20 - PDF-Extractor - INFO - 📄 第 743 页完成 (90%)
+2026-04-17 10:11:25 - PDF-Extractor - INFO - 📄 第 744 页完成 (90%)
+2026-04-17 10:11:37 - PDF-Extractor - INFO - 📄 第 745 页完成 (90%)
+2026-04-17 10:11:42 - PDF-Extractor - INFO - 📄 第 746 页完成 (90%)
+2026-04-17 10:11:47 - PDF-Extractor - INFO - 📄 第 747 页完成 (90%)
+2026-04-17 10:11:51 - PDF-Extractor - INFO - 📄 第 748 页完成 (90%)
+2026-04-17 10:12:04 - PDF-Extractor - INFO - 📄 第 749 页完成 (91%)
+2026-04-17 10:12:19 - PDF-Extractor - INFO - 📄 第 750 页完成 (91%)
+2026-04-17 10:12:24 - PDF-Extractor - INFO - 📄 第 751 页完成 (91%)
+2026-04-17 10:12:29 - PDF-Extractor - INFO - 📄 第 752 页完成 (91%)
+2026-04-17 10:12:33 - PDF-Extractor - INFO - 📄 第 753 页完成 (91%)
+2026-04-17 10:12:39 - PDF-Extractor - INFO - 📄 第 754 页完成 (91%)
+2026-04-17 10:12:44 - PDF-Extractor - INFO - 📄 第 755 页完成 (91%)
+2026-04-17 10:12:48 - PDF-Extractor - INFO - 📄 第 756 页完成 (91%)
+2026-04-17 10:13:03 - PDF-Extractor - INFO - 📄 第 757 页完成 (92%)
+2026-04-17 10:13:08 - PDF-Extractor - INFO - 📄 第 758 页完成 (92%)
+2026-04-17 10:13:22 - PDF-Extractor - INFO - 📄 第 759 页完成 (92%)
+2026-04-17 10:13:41 - PDF-Extractor - INFO - 📄 第 760 页完成 (92%)
+2026-04-17 10:13:45 - PDF-Extractor - INFO - 📄 第 761 页完成 (92%)
+2026-04-17 10:13:53 - PDF-Extractor - INFO - 📄 第 762 页完成 (92%)
+2026-04-17 10:14:00 - PDF-Extractor - INFO - 📄 第 763 页完成 (92%)
+2026-04-17 10:14:05 - PDF-Extractor - INFO - 📄 第 764 页完成 (92%)
+2026-04-17 10:14:09 - PDF-Extractor - INFO - 📄 第 765 页完成 (93%)
+2026-04-17 10:14:14 - PDF-Extractor - INFO - 📄 第 766 页完成 (93%)
+2026-04-17 10:14:22 - PDF-Extractor - INFO - 📄 第 767 页完成 (93%)
+2026-04-17 10:14:27 - PDF-Extractor - INFO - 📄 第 768 页完成 (93%)
+2026-04-17 10:14:34 - PDF-Extractor - INFO - 📄 第 769 页完成 (93%)
+2026-04-17 10:14:46 - PDF-Extractor - INFO - 📄 第 770 页完成 (93%)
+2026-04-17 10:14:52 - PDF-Extractor - INFO - 📄 第 771 页完成 (93%)
+2026-04-17 10:14:57 - PDF-Extractor - INFO - 📄 第 772 页完成 (93%)
+2026-04-17 10:15:00 - PDF-Extractor - INFO - 📄 第 773 页完成 (93%)
+2026-04-17 10:15:09 - PDF-Extractor - INFO - 📄 第 774 页完成 (94%)
+2026-04-17 10:15:19 - PDF-Extractor - INFO - 📄 第 775 页完成 (94%)
+2026-04-17 10:15:24 - PDF-Extractor - INFO - 📄 第 776 页完成 (94%)
+2026-04-17 10:15:27 - PDF-Extractor - INFO - 📄 第 777 页完成 (94%)
+2026-04-17 10:15:33 - PDF-Extractor - INFO - 📄 第 778 页完成 (94%)
+2026-04-17 10:15:47 - PDF-Extractor - INFO - 📄 第 779 页完成 (94%)
+2026-04-17 10:16:05 - PDF-Extractor - INFO - 📄 第 780 页完成 (94%)
+2026-04-17 10:16:21 - PDF-Extractor - INFO - 📄 第 781 页完成 (94%)
+2026-04-17 10:16:36 - PDF-Extractor - INFO - 📄 第 782 页完成 (95%)
+2026-04-17 10:16:50 - PDF-Extractor - INFO - 📄 第 783 页完成 (95%)
+2026-04-17 10:17:09 - PDF-Extractor - INFO - 📄 第 784 页完成 (95%)
+2026-04-17 10:17:26 - PDF-Extractor - INFO - 📄 第 785 页完成 (95%)
+2026-04-17 10:17:42 - PDF-Extractor - INFO - 📄 第 786 页完成 (95%)
+2026-04-17 10:17:56 - PDF-Extractor - INFO - 📄 第 787 页完成 (95%)
+2026-04-17 10:18:13 - PDF-Extractor - INFO - 📄 第 788 页完成 (95%)
+2026-04-17 10:18:29 - PDF-Extractor - INFO - 📄 第 789 页完成 (95%)
+2026-04-17 10:18:45 - PDF-Extractor - INFO - 📄 第 790 页完成 (96%)
+2026-04-17 10:19:04 - PDF-Extractor - INFO - 📄 第 791 页完成 (96%)
+2026-04-17 10:19:20 - PDF-Extractor - INFO - 📄 第 792 页完成 (96%)
+2026-04-17 10:19:38 - PDF-Extractor - INFO - 📄 第 793 页完成 (96%)
+2026-04-17 10:19:54 - PDF-Extractor - INFO - 📄 第 794 页完成 (96%)
+2026-04-17 10:20:08 - PDF-Extractor - INFO - 📄 第 795 页完成 (96%)
+2026-04-17 10:20:15 - PDF-Extractor - INFO - 📄 第 796 页完成 (96%)
+2026-04-17 10:20:21 - PDF-Extractor - INFO - 📄 第 797 页完成 (96%)
+2026-04-17 10:20:31 - PDF-Extractor - INFO - 📄 第 798 页完成 (96%)
+2026-04-17 10:20:37 - PDF-Extractor - INFO - 📄 第 799 页完成 (97%)
+2026-04-17 10:20:45 - PDF-Extractor - INFO - 📄 第 800 页完成 (97%)
+2026-04-17 10:20:51 - PDF-Extractor - INFO - 📄 第 801 页完成 (97%)
+2026-04-17 10:20:55 - PDF-Extractor - INFO - 📄 第 802 页完成 (97%)
+2026-04-17 10:21:00 - PDF-Extractor - INFO - 📄 第 803 页完成 (97%)
+2026-04-17 10:21:05 - PDF-Extractor - INFO - 📄 第 804 页完成 (97%)
+2026-04-17 10:21:10 - PDF-Extractor - INFO - 📄 第 805 页完成 (97%)
+2026-04-17 10:21:15 - PDF-Extractor - INFO - 📄 第 806 页完成 (97%)
+2026-04-17 10:21:20 - PDF-Extractor - INFO - 📄 第 807 页完成 (98%)
+2026-04-17 10:21:24 - PDF-Extractor - INFO - 📄 第 808 页完成 (98%)
+2026-04-17 10:21:28 - PDF-Extractor - INFO - 📄 第 809 页完成 (98%)
+2026-04-17 10:21:34 - PDF-Extractor - INFO - 📄 第 810 页完成 (98%)
+2026-04-17 10:21:40 - PDF-Extractor - INFO - 📄 第 811 页完成 (98%)
+2026-04-17 10:21:45 - PDF-Extractor - INFO - 📄 第 812 页完成 (98%)
+2026-04-17 10:21:50 - PDF-Extractor - INFO - 📄 第 813 页完成 (98%)
+2026-04-17 10:21:55 - PDF-Extractor - INFO - 📄 第 814 页完成 (98%)
+2026-04-17 10:21:59 - PDF-Extractor - INFO - 📄 第 815 页完成 (99%)
+2026-04-17 10:22:05 - PDF-Extractor - INFO - 📄 第 816 页完成 (99%)
+2026-04-17 10:22:10 - PDF-Extractor - INFO - 📄 第 817 页完成 (99%)
+2026-04-17 10:22:16 - PDF-Extractor - INFO - 📄 第 818 页完成 (99%)
+2026-04-17 10:22:20 - PDF-Extractor - INFO - 📄 第 819 页完成 (99%)
+2026-04-17 10:22:25 - PDF-Extractor - INFO - 📄 第 820 页完成 (99%)
+2026-04-17 10:22:33 - PDF-Extractor - INFO - 📄 第 821 页完成 (99%)
+2026-04-17 10:22:40 - PDF-Extractor - INFO - 📄 第 822 页完成 (99%)
+2026-04-17 10:22:50 - PDF-Extractor - INFO - 📄 第 823 页完成 (100%)
+2026-04-17 10:22:56 - PDF-Extractor - INFO - 📄 第 824 页完成 (100%)
+2026-04-17 10:23:03 - PDF-Extractor - INFO - 📄 第 825 页完成 (100%)
+2026-04-17 10:23:11 - PDF-Extractor - INFO - 📄 第 826 页完成 (100%)
+2026-04-17 10:23:15 - PDF-Extractor - INFO - 📄 第 827 页完成 (100%)
+2026-04-17 10:24:20 - PDF-Extractor - INFO - ✅ PDF提取完成，共 827 页
+2026-04-17 10:24:20 - PDF-Extractor - INFO - ⏱️  Step1耗时: 5182.6秒
+2026-04-17 10:24:20 - PDF-Extractor - INFO - 
+🧠 Step2: 智能解析 827 个页面
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 0 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 50 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 50 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 100 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 150 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 200 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 200 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO -    已提取 250 条漏洞
+2026-04-17 10:24:20 - PDF-Extractor - INFO - ⏱️  Step2耗时: 0.0秒
+2026-04-17 10:24:20 - PDF-Extractor - INFO - 
+✨ Step3: 规范化数据
+2026-04-17 10:24:20 - PDF-Extractor - INFO - 
+📊 Step4: 写入Excel
+2026-04-17 10:24:20 - PDF-Extractor - INFO - 📊 准备写入Excel: C:\Users\Administrator\Desktop\ccc\output\results\漏洞报告_本地AI版.xlsx
+2026-04-17 10:24:20 - PDF-Extractor - INFO - 📈 数据行数: 254
+2026-04-17 10:24:20 - PDF-Extractor - INFO - 🔄 去重: 254 -> 9 行 (删除 245 条)
+2026-04-17 10:24:21 - PDF-Extractor - INFO - ✅ Excel写入成功: C:\Users\Administrator\Desktop\ccc\output\results\漏洞报告_本地AI版.xlsx
+2026-04-17 10:24:21 - PDF-Extractor - INFO - 📋 总记录数: 9
+2026-04-17 10:24:21 - PDF-Extractor - INFO - 📊 严重性分布:
+2026-04-17 10:24:21 - PDF-Extractor - INFO -    高: 3
+2026-04-17 10:24:21 - PDF-Extractor - INFO -    中: 3
+2026-04-17 10:24:21 - PDF-Extractor - INFO -    低: 2
+2026-04-17 10:24:21 - PDF-Extractor - INFO -    紧急: 1
+2026-04-17 10:24:21 - PDF-Extractor - INFO - 
+============================================================
+2026-04-17 10:24:21 - PDF-Extractor - INFO - ✅ 完成！
+2026-04-17 10:24:21 - PDF-Extractor - INFO - ============================================================
+2026-04-17 10:24:21 - PDF-Extractor - INFO - ⏱️  总耗时: 5182.8秒 (86.4分钟)
+2026-04-17 10:24:21 - PDF-Extractor - INFO - 📊 提取漏洞数: 254
+2026-04-17 10:24:21 - PDF-Extractor - INFO - 📁 保存到: C:\Users\Administrator\Desktop\ccc\output\results\漏洞报告_本地AI版.xlsx
+2026-04-17 10:24:21 - PDF-Extractor - INFO - ⚡ 平均每页: 6.27秒
+2026-04-17 20:40:10 - PDF-Extractor - INFO - 📖 诊断前 3 页的OCR输出...
+2026-04-17 20:40:10 - PDF-Extractor - INFO - ⚙️  初始化OCR引擎...
+2026-04-17 20:40:10 - PDF-Extractor - INFO - ✅ OCR引擎初始化成功
+2026-04-17 20:40:10 - PDF-Extractor - INFO - 
+============================================================
+2026-04-17 20:40:10 - PDF-Extractor - INFO - 📄 第 1 页
+2026-04-17 20:40:10 - PDF-Extractor - INFO - ============================================================
+2026-04-17 20:40:10 - PDF-Extractor - INFO - 
+📝 纯文本内容:
+2026-04-17 20:40:10 - PDF-Extractor - INFO -    
+Web Application Report
+This report includes important security information about your web application.
+安全报告
+安全报告
+该报告由 HCL AppScan Standard 创建 10.9.0
+扫描开始时间： 2026/4/16 下午12:39:33
+ 
+
+2026-04-17 20:40:11 - PDF-Extractor - INFO - 
+🔍 OCR输出:
+2026-04-17 20:40:11 - PDF-Extractor - INFO - s report includes important security information about your web application.
+全报告
+告由HCLAppScanStandard创建10.9.0
+开始时间：2026/4/16下午12:39:33
+2026-04-17 20:40:11 - PDF-Extractor - INFO - 
+============================================================
+2026-04-17 20:40:11 - PDF-Extractor - INFO - 📄 第 2 页
+2026-04-17 20:40:11 - PDF-Extractor - INFO - ============================================================
+2026-04-17 20:40:11 - PDF-Extractor - INFO - 
+📝 纯文本内容:
+2026-04-17 20:40:11 - PDF-Extractor - INFO -    
+目录
+介绍
+介绍
+常规信息
+登陆设置
+摘要
+摘要
+问题类型
+有漏洞的 URL
+修订建议
+安全风险
+原因
+WASC 威胁分类
+按问题类型分组的问题
+按问题类型分组的问题
+SQL 注入
+1
+整数溢出
+53
+查询中的密码参数
+1
+缺少必需的CSP指令
+58
+通过 URL 重定向钓鱼
+1
+CORS 策略根据任意初始头进行设置
+1
+OAuth 隐式授权类型缺陷
+2
+SRI (Subresource Integrity) 的检查
+1
+具有不安全、不正确或缺少 SameSite 属性的 Cookie
+7
+加密会话（SSL）Cookie 中缺少 Secure 属性
+6
+发现数据库错误模式
+4
+跨站点请求伪造
+19
+“X-Content-Type-Options”头缺失或不安全
+1
+会话 cookie 中缺少 HttpOnly 属性
+2
+发现 Web 应用程序源代码泄露模式
+1
+发现可高速缓存的 SSL 页面
+34
+在CSP中未强制执行脚本中的可信类型
+58
+永久 Cookie 包含敏感的会话信息
+2
+跨帧脚本编制防御缺失或不安全
+1
+过度许可的 CORS 访问测试
+1
+修复方法
+修复方法
+SQ
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 
+🔍 OCR输出:
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 问题类型
+有漏洞的URL
+修订建议
+安全风险
+原因
+VWASC 威胁分类
+问题类型分组的问题
+SQL 注入①
+整数溢出53
+查询中的密码参数·
+缺少必需的CSP指令58
+通过 URL 重定向钓鱼·
+CORS 策略根据任意初始头进行设置·
+OAuth 隐式授权类型缺陷②
+SRI (Subresource Integrity) 的检查 ①
+具有不安全、不正确或缺少 SameSite 属性的 Cookie 
+加密会话（SSL）Cookie 中缺少 Secure 属性·
+发现数据库错误模式4
+跨站点请求伪造19
+"X-Content-Type-Options"头缺失或不安全·
+会话 cookie 中缺少 HttpOnly 属性②
+发现 Web应用程序源代码泄露模式·
+发现可高速缓存的 SSL 页面34
+在CSP中未强制执行脚本中的可信类型58
+永久 Cookie 包含敏感的会话信息②
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 
+============================================================
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 📄 第 3 页
+2026-04-17 20:40:12 - PDF-Extractor - INFO - ============================================================
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 
+📝 纯文本内容:
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 查询中的密码参数
+缺少必需的CSP指令
+通过 URL 重定向钓鱼
+CORS 策略根据任意初始头进行设置
+OAuth 隐式授权类型缺陷
+SRI (Subresource Integrity) 的检查
+具有不安全、不正确或缺少 SameSite 属性的 Cookie
+加密会话（SSL）Cookie 中缺少 Secure 属性
+发现数据库错误模式
+跨站点请求伪造
+“X-Content-Type-Options”头缺失或不安全
+会话 cookie 中缺少 HttpOnly 属性
+发现 Web 应用程序源代码泄露模式
+发现可高速缓存的 SSL 页面
+在CSP中未强制执行脚本中的可信类型
+永久 Cookie 包含敏感的会话信息
+跨帧脚本编制防御缺失或不安全
+过度许可的 CORS 访问测试
+应用程序数据
+应用程序数据
+cookie
+JavaScript
+参数
+注释
+已访问的 URL
+失败的请求
+已过滤的 URL
+组件
+ 
+2026/4/16
+2
+
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 
+🔍 OCR输出:
+2026-04-17 20:40:12 - PDF-Extractor - INFO - 跨帧脚本编制防御缺失或不安全
+过度许可的 CORS访问测试
+用程序数据
+cookie
+ JavaScript
+参数
+注释
+已访问的 URL
+失败的请求
+已过滤的URL
+组件
+2026-04-17 20:47:31 - PDF-Extractor - INFO - 从第 10 页开始诊断 10 页的OCR输出...
+2026-04-17 20:47:31 - PDF-Extractor - INFO - ⚙️  初始化OCR引擎...
+2026-04-17 20:47:32 - PDF-Extractor - INFO - ✅ OCR引擎初始化成功
+2026-04-17 20:47:32 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:32 - PDF-Extractor - INFO - 第 10 页
+2026-04-17 20:47:32 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:32 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:32 - PDF-Extractor - INFO - TOC
+TOC
+   
+摘要
+问题类型
+问题类型   20
+问题类型
+问题类型
+问题的数量
+问题的数量
+紧 SQL 注入
+1
+高 整数溢出
+53
+高 查询中的密码参数
+1
+高 缺少必需的CSP指令
+58
+高 通过 URL 重定向钓鱼
+1
+中 CORS 策略根据任意初始头进行设置
+1
+中 OAuth 隐式授权类型缺陷
+2
+中 SRI (Subresource Integrity) 的检查
+1
+中 具有不安全、不正确或缺少 SameSite 属性的 Cookie
+7
+中 加密会话（SSL）Cookie 中缺少 Secure 属性
+6
+中 发现数据库错误模式
+4
+中 跨站点请求伪造
+19
+低 “X-Content-Type-Options”头缺失或不安全
+1
+低 会话 cookie 中缺少 HttpOnly 属性
+2
+低 发现 Web 应用程序源代码泄露模式
+1
+低 发现可高速缓存的 SSL 页面
+34
+低 在CSP中未强制执行脚本中的可信类型
+58
+低 永久 Cookie 包含敏感的会话信息
+2
+低 跨帧脚本编制防御缺失或不安全
+1
+低 过度许可的 CORS 访问测试
+1
+有漏洞的
+有漏洞的 URL   67
+URL
+问题的数量
+问题的数量
+紧 https://emds.sqemc.com:8443/dp/api/released_dashboard_chart/chart/data
+8
+高 https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppCardAjaxHandler/LoadData
+6
+高 https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml
+8
+高 https:/
+2026-04-17 20:47:34 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:34 - PDF-Extractor - INFO - 数溢出
+53
+查询中的密码参数
+缺少必需的CSP指令
+58
+通过 URL 重定向钧鱼
+CORS 策略根据任意初始头进行设置
+DAuth 隐式授权类型缺陷
+2
+SRI (Subresource Integrity)的检查
+具有不安全、不正确或缺少SameSite属性的Cookie
+7
+加密会话（SSL）Cookie 中缺少 Secure属性
+6
+发现数据库错误模式
+4
+跨站点请求伪造
+19
+X-Content-Type-Options"头缺失或不安全
+会话 cookie 中缺少 HtpOnly属性
+2
+发现Web 应用程序源代码泄露模式
+1
+发现可高速缓存的 SSL 页面
+34
+在CSP中未强制执行脚本中的可信类型
+58
+永久 Cookie 包含敏感的会话信息
+2
+夸帧脚本编制防御缺失或不安全
+1
+过度许可的 CORS 访问测试
+漏洞的URL
+URL
+问题的数量
+https://emds.sqemc.com:8443/dp/api/released_dashboard_chart/chart/data
+nttps://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppCardAjaxHandler/LoadData
+6
+nttps://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/GetHtml
+8
+ittps://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppGridAjaxHandler/LoadData
+9
+ttps://emds.sqemc.com:8443/ajaxMysoft.Map6.Modeling.Controls.AppT
+2026-04-17 20:47:34 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:34 - PDF-Extractor - INFO - 第 11 页
+2026-04-17 20:47:34 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:34 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:34 - PDF-Extractor - INFO - 高 https://emds.sqemc.com:8443/api/03011407/setting/globalCss
+4
+高 https://emds.sqemc.com:8443/api/03011407/setting/page/config
+4
+高 https://emds.sqemc.com:8443/api/32010604/MoneyPlanReportGroup/GetMoneyPlanGroupApprovalData
+4
+高 https://emds.sqemc.com:8443/api/32010650/MoneyPlanSettings/GetFianFinancePlanSettings
+4
+高 https://emds.sqemc.com:8443/api/32010650/MoneyPlanSettings/GetMoneyPlanParamValue
+5
+高 https://emds.sqemc.com:8443/api/Mysoft.Map6.Modeling.AppServices.Controls.ProjectTreeAppService/GetPro
+jectSelect
+7
+高 https://emds.sqemc.com:8443/api/Mysoft.Map6.Modeling.Controls.SubControls.FilterAppService/LoadFilter
+4
+高 https://emds.sqemc.com:8443/api/Mysoft.PubPlatform.Nav.AppServices.SiteRedirectAppService/RedirectFunct
+ionHomePageWithoutToken
+4
+高 https://emds.sqemc.com:8443/auth/oauth2/au
+2026-04-17 20:47:38 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:38 - PDF-Extractor - INFO - ttps://emds.sqemc.com:8443/PO/version.json
+3
+tps://emds.sqemc.com:8443/PO/widgets/functionList/manifest.json
+3
+ittps://emds.sqemc.com:8443/PO/widgets/messageCenter/manifest.json
+3
+ttps://emds.sqemc.com:8443/PO/widgets/news/manifest.json
+3
+ittps://emds.sqemc.com:8443/PO/widgets/notice/manifest.json
+3
+ittps://emds.sqemc.com:8443/PubPlatform/Nav/Common/OutsiteLinkPage
+2
+ttps://emds.sqemc.com:8443/PubPlatform/SysSetting/M00002105/bizparam
+3
+ittps://emds.sqemc.com:8443/Pubplatform/SysSetting/M00002105/bizparam
+3
+https:/emds.sqemc.com:8443/_frontend/sea-config.js
+3
+ittps://emds.sqemc.com:8443/ajaxMysoft.PubPlatform.Nav.Handlers.WorkBenchLoginHandler/DoLogin
+3
+ttps://emds.sqemc.com:8443/api/02200302/CgSolution/GetNodeList
+3
+ittps://emds.sqemc.com:8443/api/Mysoft.PubPlatform.Nav.AppServices.ThemeS
+2026-04-17 20:47:38 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:38 - PDF-Extractor - INFO - 第 12 页
+2026-04-17 20:47:38 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:38 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:38 - PDF-Extractor - INFO - TOC
+TOC
+中 https://emds.sqemc.com:8443/dp/bi-visual/app/index/11111111-0000-0000-0000-000000000220
+1
+低 https://emds.sqemc.com:8443/dp/api/app_menu/app/get
+1
+低 https://emds.sqemc.com:8443/dp/api/app_menu/app/get_relation
+1
+低 https://emds.sqemc.com:8443/dp/api/home_page/list
+1
+低 https://emds.sqemc.com:8443/dp/api/released_dashboard_chart/project/info
+1
+低 https://emds.sqemc.com:8443/dp/bi-visual/chartlibs/components.json
+2
+修订建议
+修订建议   17
+修复任务
+修复任务
+问题的数量
+问题的数量
+高 发送敏感信息时，始终使用 SSL 和 POST（主体）参数。
+1
+高 查看危险字符注入的可能解决方案
+5
+高 禁用基于参数值指向外部站点的重定向
+1
+高 配置具有适当值的Content-Security-Policy
+116
+高 验证参数值是否在其预计范围和类型内。不要输出调试错误消息和异常
+53
+中 修改“Access-Control-Allow-Origin”头以仅获取允许的站点
+2
+中 向所有敏感的 cookie 添加“Secure”属性
+6
+中 将每个第三方脚本/链接元素支持添加到 SRI(Subresource Integrity)。
+1
+中 查看将 SameSite Cookie 属性配置为推荐值的可能解决方案
+7
+中 添加代码交换证明密钥 (PKCE)
+
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 查看危险字符注入的可能解决方案
+5
+禁用基于参数值指向外部站点的重定向
+1
+配置具有适当值的Content-Security-Policy
+116
+应证参数值是否在其预计范围和类型内。不要输出调试错误消息和异常
+53
+修改"Access-Control-Alow-Origin"头以仅获取允许的站点
+2
+向所有敏感的 cookie 添加"Secure"属性
+6
+将每个第三方脚本/链接元素支持添加到SRI(SubresourceIntegrity)
+1
+查看将 SameSite Cookie 属性配置为推荐值的可能解决方案
+7
+添加代码交换证明密钥 (PKCE)
+2
+验证"Referer"头的值，并对每个提交的表单使用 one-time-nonce
+19
+向所有会话 cookie 添加"HttpOnly"属性
+2
+将服务器配置为使用值为DENY或SAMEORIGIN的"X-Frame-Options"头
+1
+将服务器配置为使用值为"nosniff"的"X-Content-Type-Options"头
+1
+通过在响应中添加"Cache-Control: no-store"和“Pragma: no-cache"标题，可以阻止高速缓存 SSL 页面。
+34
+避免在永久 cookie 中存储敏感的会话信息
+2
+徐去 web-server 中的源代码文件并应用任何相关补丁
+1
+全风险12
+风险
+问题的数量
+可能会查看、修改或删除数据库条目和表
+5
+可能会收集敏感的调试信息
+53
+可能会窃取查询字符串中发送的敏感数据，例如用户名和密码
+1
+可能会收集有关Web应用程序的敏感信息，如用户名、密码、机器名和/或敏感文件位置
+154
+可能会劝说初级用户提供诸如用户名、密码、信用卡号、社会保险号等敏感信息
+121
+可能会窃取或操纵客户会话和cookie，它们可能用于假冒合法用户，从而使黑客能够以该
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 第 13 页
+2026-04-17 20:47:41 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:41 - PDF-Extractor - INFO - TOC
+TOC
+原因
+原因   35
+原因
+原因
+问题的数量
+问题的数量
+紧 未对用户输入正确执行危险字符清理
+5
+高 未对入局参数值执行适当的边界检查
+53
+高 未执行验证以确保用户输入与预期的数据类型匹配
+53
+高 查询字符串中传递了敏感输入字段（例如用户名、密码和信用卡号）
+1
+高 Web 应用程序编程或配置不安全
+120
+高 Web 应用程序执行指向外部站点的重定向
+1
+中 应用程序使用的认证方法不充分
+21
+中 SRI(Subresource Integrity) 不受支持
+1
+中 具有不正确、不安全或缺少 SameSite 属性的敏感 Cookie
+7
+中 Web 应用程序通过 SSL 发送不安全的 cookie
+6
+低 Web 应用程序设置了缺少 HttpOnly 属性的会话 cookie
+2
+低 在生产环境中留下临时文件
+1
+低 程序员在 Web 页面上留下调试信息
+1
+低 未安装第三方产品的最新补丁或最新修补程序
+1
+低 浏览器可能已将敏感信息高速缓存
+34
+低 Web 应用程序将敏感的会话信息存储在永久 cookie 中（磁盘上）
+2
+WASC 威胁分类
+威胁分类
+威胁
+威胁
+问题的数量
+问题的数量
+服务器配置错误
+7
+会话期限不足
+2
+跨站点请求伪造
+19
+权限不足
+2
+信息泄露
+164
+远程文件包含
+1
+整数溢出
+53
+SQL 注入
+5
+URL 重定向滥用
+1
+ 
+2026/4/16
+12
+
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 在生产环境中留下临时文件
+程序员在Web页面上留下调试信息
+未安装第三方产品的最新补丁或最新修补程序
+刘览器可能已将敏感信息高速缓存
+34
+Neb 应用程序将敏感的会话信息存储在永久 cookie 中（磁盘上）
+2
+ASC威胁分类
+胁
+问题的数量
+务器配置错误
+7
+话期限不足
+2
+站点请求伪造
+19
+限不足
+2
+息泄露
+164
+程文件包含
+1
+数溢出
+53
+L注入
+5
+RL重定向滥用
+1
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 第 14 页
+2026-04-17 20:47:41 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:41 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:41 - PDF-Extractor - INFO - TOC
+   
+按问题类型分组的问题
+紧
+SQL 注入   1
+TOC
+问题   1   /   1
+SQL 注入
+注入
+严重性：
+严重性：
+紧急
+紧急
+CVSS 分数：
+分数： 9.4
+CVSS 向量：
+向量： AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L/E:X/RL:X/RC:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MPR:X/MUI:X/MS:X/MC:X/MI:X/MA:X
+URL：
+：
+https://emds.sqemc.com:8443/dp/api/released_dashboard_chart/chart/data
+实体：
+实体：
+->"chart_params"[1]->"query_vars"[0]->"value_from"->"conditions"[0]->"col_value" (Parameter)
+风险：
+风险：
+可能会查看、修改或删除数据库条目和表
+原因：
+原因：
+未对用户输入正确执行危险字符清理
+固定值：
+固定值：
+查看危险字符注入的可能解决方案
+差异：
+差异： 参数
+参数  ->"chart_params"[1]->"query_vars"[0]->"value_from"->"conditions"[0]->"col_value"   从以下位置进行控制： [\"公司\"]  至： [\"公司\"]%27%3B
+推理：
+推理： 测试结果似乎指示存在脆弱性，因为响应包含 RDBMS 错误。这表明测试设法通过注入危险字符穿透了应用程序并到达 SQL 查询本身。
+测试请求和响应：
+测试请求和响应：
+POST /dp/api/released_dashboard_chart/chart/data?t=1776317295205&__traceId__=20260416123736 HTTP/1
+2026-04-17 20:47:46 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:46 - PDF-Extractor - INFO - QL注入
+重性：
+紧急
+SS分数：
+9.4
+SS向量：
+AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:L/E:XRL:XRC:X/CR:XIR:XAR:X/MAV:X/MAC:X/MPR:X/MUI:XIMS:X/MC:X/MI:X/MA:X
+L:
+https://emds.sqemc.com:8443/dp/api/released_dashboard_chart/chart/data
+本：
+->"chart_params"[1]->"query_vars"[0]->"value_from"->"conditions"[0]->"col_value"(Parameter)
+：
+可能会查看、修改或删除数据库条目和表
+因：
+未对用户输入正确执行危险字符清理
+定值：
+查看危险字符注入的可能解决方案
+差异：
+参数（->"chart params"[1]->"query_vars"[0]->"value_from"->"conditions"[0]->"col value" 从以下位置进行控制：[\"公司\"]至：[\"公司\"]%27%3B
+推理：
+测试结果似乎指示存在脆弱性，因为响应包含RDBMS错误。这表明测试设法通过注入危险字符穿透了应用程序并到达SQL查询本身。
+测试请求和响应：
+POST /dp/api/released_dashboard_chart/chart/data?t=1776317295205&_traceId_=20260416123736 HTTP/1.1
+Host: emds.sqemc.com:8443
+ Connection: keep-alive
+sec-ch-ua-platform: "Windows""
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple
+2026-04-17 20:47:46 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:46 - PDF-Extractor - INFO - 第 15 页
+2026-04-17 20:47:46 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:46 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:46 - PDF-Extractor - INFO - x-my-login-site: fa4095c3-8fe3-11ec-ae49-fa163eb3dbe3
+Content-Length: 5994
+...
+...
+...
+    ]
+   }
+  },
+  "3a000f79-fd5c-595e-7b26-3534f9f8b697": {
+   "errmsg": "单图 810da3e9-a6bc-11ec-8acf-117b22c26fcb 间接关联条件无法获取到数据，错误信息 [ SQL执行报错，请检查SQL脚本\nSQL执行异常详情：\nError 1064 (42000): You have an error in 
+your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''[\\\"公司\\\"]\\';' ORDER BY `idx` ASC LIMIT 0, 50000' at 
+line 5 ] ",
+   "data": [
+ 
+   ],
+...
+...
+...
+   ],
+   "conditions": [
+ 
+   ],
+   "msg": "单图取数接口异常，异常信息: 单图 810da3e9-a6bc-11ec-8acf-117b22c26fcb 间接关联条件无法获取到数据，错误信息 [ SQL执行报错，请检查SQL脚本\nSQL执行异常详情：\nError 1064 
+(42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syn
+2026-04-17 20:47:48 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:48 - PDF-Extractor - INFO - "msg"："单图取数接口异常，异常信息：单图 810da3e9-a6bc-1lec-8acf-117o22c26fcb 间接关联条件无法获取到数据，错误信息［SQL执行报错，请检查SQL脚本\nSQL执行异常详情：\nError 1064
+(42000):
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version
+1for the right Syntax touse near"'[\\\"公司\\\"j\\';'ORDER BY
+idxASC LIMIT 0, 50000' at line 5 ］",
+"msg_code": 500,
+"error_code":10oo0,
+"pagination":{
+..
+2026-04-17 20:47:48 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:48 - PDF-Extractor - INFO - 第 16 页
+2026-04-17 20:47:48 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:48 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:48 - PDF-Extractor - INFO - TOC
+TOC
+   
+高
+整数溢出   53
+TOC
+问题   1   /   53
+整数溢出
+整数溢出
+严重性：
+严重性：
+高
+高
+CVSS 分数：
+分数： 8.6
+CVSS 向量：
+向量： AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:L/E:X/RL:X/RC:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MPR:X/MUI:X/MS:X/MC:X/MI:X/MA:X
+URL：
+：
+https://emds.sqemc.com:8443/auth/oauth2/authorize
+实体：
+实体：
+client_id (Parameter)
+风险：
+风险：
+可能会收集敏感的调试信息
+原因：
+原因：
+未对入局参数值执行适当的边界检查
+未执行验证以确保用户输入与预期的数据类型匹配
+固定值：
+固定值：
+验证参数值是否在其预计范围和类型内。不要输出调试错误消息和异常
+差异：
+差异： 参数
+参数  client_id   从以下位置进行控制： platform  至： 99999999999999999999
+推理：
+推理： 应用程序以错误消息响应，表示可能会泄露敏感信息的未定义状态。
+测试请求和响应：
+测试请求和响应：
+GET /auth/oauth2/authorize?redirect_uri=https%3a%2f%2femds.sqemc.com%3a8443%2fapaas-auth%2foauth2%2fportal%3fredirect_uri%3d%252f&response_type=code&state=168a4f08-0801-4c18-
+b04b-a1efb941d51d&client_id=99999999999999999999 HTTP/1.1
+Host: emds.sqemc.com:8443
+Connect
+2026-04-17 20:47:51 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:51 - PDF-Extractor - INFO - SS向量：
+AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:L/E:XRL:XRC:XCR:XIR:XAR:X/MAV:X/MAC:X/MPR:XMUI:X/MS:XMC:XMI:X/MA:X
+https://emds.sqemc.com:8443/auth/oauth2/authorize
+本：
+client_id (Parameter)
+：
+可能会收集敏感的调试信息
+因：
+未对入局参数值执行适当的边界检查
+未执行验证以确保用户输入与预期的数据类型匹配
+定值：
+验证参数值是否在其预计范围和类型内。不要输出调试错误消息和异常
+差异：
+：参数（client id）从以下位置进行控制：
+platform 至: 99999999999999999999
+推理：
+应用程序以错误消息响应，表示可能会泄露敏感信息的未定义状态。
+测试请求和响应：
+GET /auth/oauth2/authorize?redirect _uri=https%3a%2f%2femds.sqemc.com%3a8443%2fapaas-auth%2foauth2%2fportal%3fredirect_uri%3d%252f&response_type=code&state=168a4f08-0801-4c18-
+b04b-alefb941d51d&client_id=99999999999999999999 HTTP/1.1
+Host: emds.sqemc.com:8443
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.
+2026-04-17 20:47:51 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:51 - PDF-Extractor - INFO - 第 17 页
+2026-04-17 20:47:51 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:51 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:51 - PDF-Extractor - INFO - 整数溢出
+整数溢出
+严重性：
+严重性：
+高
+高
+CVSS 分数：
+分数： 8.6
+CVSS 向量：
+向量： AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:L/E:X/RL:X/RC:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MPR:X/MUI:X/MS:X/MC:X/MI:X/MA:X
+URL：
+：
+https://emds.sqemc.com:8443/ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData
+实体：
+实体：
+->"expandedLevel" (Parameter)
+风险：
+风险：
+可能会收集敏感的调试信息
+原因：
+原因：
+未对入局参数值执行适当的边界检查
+未执行验证以确保用户输入与预期的数据类型匹配
+固定值：
+固定值：
+验证参数值是否在其预计范围和类型内。不要输出调试错误消息和异常
+差异：
+差异： 参数
+参数  ->"expandedLevel"   从以下位置进行控制： 0  至： 99999999999999999999
+推理：
+推理： 应用程序以错误消息响应，表示可能会泄露敏感信息的未定义状态。
+测试请求和响应：
+测试请求和响应：
+POST /ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData?refFilterHasNoData=true&pageId=c727ddf6-b74c-47dd-233f-08da7feb73d1 HTTP/1.1
+Host: emds.sqemc.com:8443
+Connection: keep-alive
+X-Page-RequestId: {9ca41935595348d79bda1a27e9a0105b}
+sec-
+2026-04-17 20:47:57 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:57 - PDF-Extractor - INFO - 测试请求和响应：
+POST /ajax/Mysoft.Map6.Modeling.Controls.AppTreeGridAjaxHandler/LoadData?refFilterHasNoData=true&pageId=c727ddf6-b74c-47dd-233f-08da7feb73dl HTTP/1.1
+Host: emds.sqemc.com:8443
+Connection: keep-alive
+X-Page-RequestId: {9ca41935595348d79bda1a27e9a0105b}
+sec-ch-ua-platform: "Windows"
+x-req-signature: aV57UFmcyY9w6sGOGV3Fo203kUULYRXjS8Z1j4lvxFk=
+X-Gzip-Respond: 1
+ SeC-ch-ua: "Not-A.Brand";v="24", "Microsoft Edge";v="146", "Chromium";v="146", "Microsoft Edge WebView2";v="146"
+x-req-timestamp: 1776314169523
+sec-ch-ua-mobile: ?0
+X-Requested-With: XMHttpRequest
+ct: 161ec88bb1a2e62e0, fb54c7-0e4e64-01-ab1490-d84a6c9fcdd
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/json; charset=UTF-8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
+2026-04-17 20:47:57 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:57 - PDF-Extractor - INFO - 第 18 页
+2026-04-17 20:47:57 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:57 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:57 - PDF-Extractor - INFO - TOC
+  },
+  "advancedFilterConditions": [
+ 
+  ]
+ },
+ "idField": "MoneyPlanDeptGUID",
+ "sortField": "HierarchyCode",
+ "sortOrder": "a",
+ "conditionSelectedInfos": [
+ 
+ ],
+ "metadataId": "d60bc42b-af3f-4fc2-2347-08da7feb73d1",
+ "viewId": "03ffcade-4fc9-4d48-908c-13af8fbe711c",
+ "parentField": "ParentGUID",
+ "nodeField": "OrganizationGUID",
+ "expandedLevel": 99999999999999999999,
+ "controlHandler": "",
+ "pageSize": 0,
+ "gridViewId": "appTreeGrid_View",
+ "functionCode": "32010602",
+ "realFunctionCode": "",
+ "realPageId": "",
+ "pageId": "c727ddf6-b74c-47dd-233f-08da7feb73d1"
+}
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 16 Apr 2026 05:35:44 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000; includeSub
+2026-04-17 20:47:59 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:47:59 - PDF-Extractor - INFO - HTTP/1.1
+500 Intermal Server Error
+Date: Thu, 16 Apr 2026 05:35:44 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors https://*.sqemc.com:8443
+"mesSage"："系统发生异常，请使用错误编号[2044650931294830592]到[异常日志]搜索异常详情。",
+"html": "<!DOCTYPE html>\n<html>\n <head>\n
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n 
+<title>明源云ERP</title>\n
+<meta http-
+equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n 
+<meta name=\"renderer\"
+3/53
+数溢出
+重性：
+高
+SS分数：
+8.6
+SS向量：
+AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:L/E:XRL:XRC:XCR:XIR:XAR:X/MAV:X/MAC:X/MPR:XMUI:X/MS:X/MC:X/MI:X/MA:X
+https://emds.sqemc.com:8443/pub/03011407/topNav/getMessageCount
+本：
+[NUMER
+2026-04-17 20:47:59 - PDF-Extractor - INFO - 
+======================================================================
+2026-04-17 20:47:59 - PDF-Extractor - INFO - 第 19 页
+2026-04-17 20:47:59 - PDF-Extractor - INFO - ======================================================================
+2026-04-17 20:47:59 - PDF-Extractor - INFO - 
+【纯文本内容】:
+2026-04-17 20:47:59 - PDF-Extractor - INFO - TOC
+Referer: https://emds.sqemc.com:8443/std/03011401/08dc5cec-6593-4af6-8de4-8bf200fca00a
+Accept-Language: en-US
+Cookie: __tracker_user_id__=277131deb75d000-8e40004323-d020476c; __fast_sid__=27712d504edeee0-c44e00f127-d043636c; 
+*=1776317276.932.87.724128|f4aafdb70292d200d9aa72f9f2bd29be; LoginTenant=qhgg; LoginSite=fa4095c3-8fe3-11ec-ae49-fa163eb3dbe3; 
+platform_user_token=eyJraWQiOiJ4Yy1xaGdnLWlkYyIsImFsZyI6IlJTMjU2In0.eyJuYmYiOjE3NzYzMTcyNzgsInVzZXJfY29kZSI6ImFkbWluIiwidXNlcl9uYW1lIjoi57O757uf566h55CG5ZGYIiwiaXNzIjoiaHR0cH
+M6XC9cL2VtZHMuc3FlbWMuY29tOjg0NDNcL2F1dGgiLCJ1c2VyX2d1aWQiOiI0MjMwYmM2ZS02OWU2LTQ2YTktYTM5ZS1iOTI5YTA2YTg0ZTgiLCJzb3VyY2UiOiJwYyIsImV4cCI6MTc3NjMzNTMzOCwidG9rZW5fdHlwZSI6ImFj
+Y2Vzc190b2tlbiIsImlhdCI6MTc3NjMxNzI3OCwianRpIjoiZDU4NmZjOWEtNDU2ZC00YmZkLTk1NGUtZGQ0NzdlYTA5
+2026-04-17 20:48:03 - PDF-Extractor - INFO - 
+【OCR输出】:
+2026-04-17 20:48:03 - PDF-Extractor - INFO - Strict-Transport-Security: max-age=31536000; includeSubDomains 
+Content-Security-Policy: frame-ancestors https://*.sqemc.com:8443
+"mesSage"："系统发生异常，请使用错误编号［2044650531065954304]到[异常日志]搜索异常详情。",
+"html": "<!DOCTYPE html>\n<html>\n <head>\n 
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n 
+<title>明源云ERP</title>\n
+<meta http-
+equiv=\"x-UA-Compatible\" content=\"IE=Edge\" />\n 
+<meta name=\"renderer\" content=\"webkit\" />\n 
+<script>\n
+document.writeln('<link rel=\"shortcut icon\"
+href=\"/ajax/Mysoft.PubPlatform.Nav.Handlers.LoginHandler/SiteIcon?_t=28785217\"/>') ;\n
+</script>\n
+<style type=\"text/css\">\n
+body {\n
+margin: O;\n
+padding: 0;\n
+color: #222;\n
+font-family: \"PingFang SC\", \"Microsoft Yahei\", Verdana, simsun, Arial,\n 
+Helvetica, sans-serif;\n
+font-siz
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 检测硬件配置...
+2026-04-17 21:41:44 - PDF-Extractor - INFO -   GPU: ✅ 可用
+2026-04-17 21:41:44 - PDF-Extractor - INFO -   GPU显存: 7GB
+2026-04-17 21:41:44 - PDF-Extractor - INFO -   CPU核心: 20
+2026-04-17 21:41:44 - PDF-Extractor - INFO -   系统内存: 31GB
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 
+========================================================================================================================
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 🚀 启动 PDF 安全报告智能提取系统
+2026-04-17 21:41:44 - PDF-Extractor - INFO - ========================================================================================================================
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 
+推荐模型选择:
+2026-04-17 21:41:44 - PDF-Extractor - INFO -   GPU显存充足 (≥6GB) → 推荐 qwen:7b
+2026-04-17 21:41:44 - PDF-Extractor - INFO - ✅ 自动选择模型: qwen:7b
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 
+⚙️  系统配置:
+2026-04-17 21:41:44 - PDF-Extractor - INFO -    PDF文件: report.pdf
+2026-04-17 21:41:44 - PDF-Extractor - INFO -    Ollama模型: qwen:7b
+2026-04-17 21:41:44 - PDF-Extractor - INFO -    Ollama地址: http://localhost:11434/api/generate
+2026-04-17 21:41:44 - PDF-Extractor - INFO -    断点恢复: ✅ 启用
+2026-04-17 21:41:44 - PDF-Extractor - INFO -    执行步骤: extract_pdf → parse_pages → normalize_data → write_excel
+2026-04-17 21:41:44 - PDF-Extractor - INFO -    输出位置: C:\Users\Administrator\Desktop\ccc\output\results\漏洞报告.xlsx
+2026-04-17 21:41:44 - PDF-Extractor - INFO -    启动时间: 2026-04-17 21:41:44
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 
+========================================================================================================================
+2026-04-17 21:41:44 - PDF-Extractor - INFO - Step1: 提取PDF页面
+2026-04-17 21:41:44 - PDF-Extractor - INFO - ========================================================================================================================
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 📖 打开PDF: report.pdf
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 📊 PDF总页数: 827
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 打开PDF: report.pdf
+2026-04-17 21:41:44 - PDF-Extractor - INFO - DPI: 200 (降低DPI以加快处理)
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 总页数: 827
+2026-04-17 21:41:44 - PDF-Extractor - INFO - 初始化OCR引擎（快速模式）...
+2026-04-17 21:41:44 - PDF-Extractor - INFO - ✅ OCR引擎初始化成功（快速模式）
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 
+✅ PDF提取完成
+2026-04-17 21:41:47 - PDF-Extractor - INFO -    纯文本页: 825
+2026-04-17 21:41:47 - PDF-Extractor - INFO -    OCR页: 2
+2026-04-17 21:41:47 - PDF-Extractor - INFO -    总页: 827
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 提取PDF页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 1/827 (  0.12%) 已用: 3.4s 预计: 46.7m
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 提取PDF页面 |████████████████████████████████████████| 827/827 (100.00%) 已用: 3.4s 预计: 0.0s
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 提取PDF页面 |████████████████████████████████████████| 827/827 (100.00%) 总用时: 3.4s
+2026-04-17 21:41:47 - PDF-Extractor - INFO - ✅ 提取PDF页面 完成 | 处理: 827  | 耗时: 3.4s | 速度: 243.58 项/秒
+2026-04-17 21:41:47 - PDF-Extractor - INFO - ✅ Step1耗时: 3.4s
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 
+========================================================================================================================
+2026-04-17 21:41:47 - PDF-Extractor - INFO - Step2: 解析页面内容
+2026-04-17 21:41:47 - PDF-Extractor - INFO - ========================================================================================================================
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 📖 开始解析 827 个页面
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:41:47 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:41:49 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:41:49 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:41:49 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:41:49 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 1/827 (  0.12%) 已用: 2.0s 预计: 27.8m
+2026-04-17 21:41:49 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:41:49 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:41:49 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:41:51 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:41:51 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:41:51 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:41:51 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 2/827 (  0.24%) 已用: 4.1s 预计: 28.0m
+2026-04-17 21:41:51 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:41:51 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:41:51 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:41:53 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:41:53 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:41:53 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:41:53 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 3/827 (  0.36%) 已用: 6.1s 预计: 28.0m
+2026-04-17 21:41:53 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:41:53 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:41:53 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:41:56 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:41:56 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:41:56 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:41:56 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 4/827 (  0.48%) 已用: 8.2s 预计: 28.2m
+2026-04-17 21:41:56 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:41:56 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:41:56 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:41:58 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:41:58 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:41:58 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:41:58 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 5/827 (  0.60%) 已用: 10.3s 预计: 28.2m
+2026-04-17 21:41:58 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:41:58 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:41:58 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:41:58 - PDF-Extractor - WARNING - 文本过长 (4155)，截断到 3000
+2026-04-17 21:42:00 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:00 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:00 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:00 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 6/827 (  0.73%) 已用: 12.3s 预计: 28.2m
+2026-04-17 21:42:00 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:00 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:00 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:00 - PDF-Extractor - WARNING - 文本过长 (4271)，截断到 3000
+2026-04-17 21:42:02 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:02 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:02 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:02 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 7/827 (  0.85%) 已用: 14.4s 预计: 28.2m
+2026-04-17 21:42:02 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:02 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:02 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:02 - PDF-Extractor - WARNING - 文本过长 (4206)，截断到 3000
+2026-04-17 21:42:04 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:04 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:04 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:04 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 8/827 (  0.97%) 已用: 16.5s 预计: 28.1m
+2026-04-17 21:42:04 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:04 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:04 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:06 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:06 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:06 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:06 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 9/827 (  1.09%) 已用: 18.5s 预计: 28.0m
+2026-04-17 21:42:06 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:06 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:06 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:08 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:08 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:08 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:08 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 10/827 (  1.21%) 已用: 20.6s 预计: 28.0m
+2026-04-17 21:42:08 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:08 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:08 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:08 - PDF-Extractor - WARNING - 文本过长 (4062)，截断到 3000
+2026-04-17 21:42:10 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:10 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:10 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:10 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 11/827 (  1.33%) 已用: 22.6s 预计: 28.0m
+2026-04-17 21:42:10 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:10 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:10 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:12 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:12 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:12 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:12 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 12/827 (  1.45%) 已用: 24.7s 预计: 27.9m
+2026-04-17 21:42:12 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:12 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:12 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:14 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:14 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:14 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:14 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 13/827 (  1.57%) 已用: 26.7s 预计: 27.9m
+2026-04-17 21:42:14 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:14 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:14 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:42:16 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:16 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:16 - PDF-Extractor - WARNING - 文本过长 (4725)，截断到 3000
+2026-04-17 21:42:18 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:18 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:18 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:42:18 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 14/827 (  1.69%) 已用: 30.8s 预计: 29.8m
+2026-04-17 21:42:18 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:18 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:18 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:20 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:20 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:20 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:20 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 15/827 (  1.81%) 已用: 32.9s 预计: 29.7m
+2026-04-17 21:42:20 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:20 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:20 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:22 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:22 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:22 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:22 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 16/827 (  1.93%) 已用: 34.9s 预计: 29.5m
+2026-04-17 21:42:22 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:22 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:22 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:22 - PDF-Extractor - WARNING - 文本过长 (4196)，截断到 3000
+2026-04-17 21:42:24 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:26 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:26 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:26 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 17/827 (  2.06%) 已用: 38.2s 预计: 30.4m
+2026-04-17 21:42:26 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:26 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:26 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:42:28 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:28 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:30 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:30 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:30 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:42:30 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 18/827 (  2.18%) 已用: 42.3s 预计: 31.7m
+2026-04-17 21:42:30 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:30 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:30 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:42:30 - PDF-Extractor - WARNING - 文本过长 (4212)，截断到 3000
+2026-04-17 21:42:32 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:32 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:34 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:34 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:34 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:42:34 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 19/827 (  2.30%) 已用: 46.4s 预计: 32.9m
+2026-04-17 21:42:34 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:34 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:34 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:42:34 - PDF-Extractor - WARNING - 文本过长 (4168)，截断到 3000
+2026-04-17 21:42:36 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:36 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:38 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:38 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:38 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:42:38 - PDF-Extractor - INFO - 解析页面 |░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 20/827 (  2.42%) 已用: 50.5s 预计: 34.0m
+2026-04-17 21:42:38 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:38 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:38 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:42:38 - PDF-Extractor - WARNING - 文本过长 (4381)，截断到 3000
+2026-04-17 21:42:40 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:40 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:42 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:42 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:42 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:42:42 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 21/827 (  2.54%) 已用: 54.7s 预计: 35.0m
+2026-04-17 21:42:42 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:42 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:42 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:42:42 - PDF-Extractor - WARNING - 文本过长 (4614)，截断到 3000
+2026-04-17 21:42:44 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:44 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:46 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:46 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:46 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:42:46 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 22/827 (  2.66%) 已用: 58.8s 预计: 35.8m
+2026-04-17 21:42:46 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:46 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:46 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:46 - PDF-Extractor - WARNING - 文本过长 (4944)，截断到 3000
+2026-04-17 21:42:48 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:48 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:48 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:48 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 23/827 (  2.78%) 已用: 1.0m 预计: 35.4m
+2026-04-17 21:42:48 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:48 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:48 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:48 - PDF-Extractor - WARNING - 文本过长 (4161)，截断到 3000
+2026-04-17 21:42:50 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:50 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:50 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:50 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 24/827 (  2.90%) 已用: 1.0m 预计: 35.1m
+2026-04-17 21:42:50 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:50 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:50 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:42:52 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:52 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:54 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:54 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:54 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:42:54 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 25/827 (  3.02%) 已用: 1.1m 预计: 35.8m
+2026-04-17 21:42:54 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:54 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:54 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:54 - PDF-Extractor - WARNING - 文本过长 (3522)，截断到 3000
+2026-04-17 21:42:56 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:56 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:56 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:56 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 26/827 (  3.14%) 已用: 1.2m 预计: 35.5m
+2026-04-17 21:42:56 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:42:56 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:56 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:42:56 - PDF-Extractor - WARNING - 文本过长 (4173)，截断到 3000
+2026-04-17 21:42:58 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:42:58 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:42:58 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:42:59 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 27/827 (  3.26%) 已用: 1.2m 预计: 35.1m
+2026-04-17 21:42:59 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:42:59 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:42:59 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:01 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:01 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:03 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:03 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:03 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:03 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 28/827 (  3.39%) 已用: 1.3m 预计: 35.8m
+2026-04-17 21:43:03 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:03 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:03 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:03 - PDF-Extractor - WARNING - 文本过长 (3332)，截断到 3000
+2026-04-17 21:43:05 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:05 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:05 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:05 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 29/827 (  3.51%) 已用: 1.3m 预计: 35.5m
+2026-04-17 21:43:05 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:05 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:05 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:05 - PDF-Extractor - WARNING - 文本过长 (4201)，截断到 3000
+2026-04-17 21:43:07 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:07 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:07 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:07 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 30/827 (  3.63%) 已用: 1.3m 预计: 35.2m
+2026-04-17 21:43:07 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:07 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:07 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:09 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:09 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:11 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:11 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:11 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:11 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 31/827 (  3.75%) 已用: 1.4m 预计: 35.7m
+2026-04-17 21:43:11 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:11 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:11 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:11 - PDF-Extractor - WARNING - 文本过长 (4146)，截断到 3000
+2026-04-17 21:43:13 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:13 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:15 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:15 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:15 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:15 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 32/827 (  3.87%) 已用: 1.5m 预计: 36.3m
+2026-04-17 21:43:15 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:15 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:15 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:15 - PDF-Extractor - WARNING - 文本过长 (4322)，截断到 3000
+2026-04-17 21:43:17 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:17 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:17 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:17 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 33/827 (  3.99%) 已用: 1.5m 预计: 36.0m
+2026-04-17 21:43:17 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:17 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:17 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:17 - PDF-Extractor - WARNING - 文本过长 (4060)，截断到 3000
+2026-04-17 21:43:19 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:19 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:19 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:19 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 34/827 (  4.11%) 已用: 1.5m 预计: 35.7m
+2026-04-17 21:43:19 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:19 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:19 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:21 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:21 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:23 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:24 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:24 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:24 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 35/827 (  4.23%) 已用: 1.6m 预计: 36.5m
+2026-04-17 21:43:24 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:24 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:24 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:24 - PDF-Extractor - WARNING - 文本过长 (4693)，截断到 3000
+2026-04-17 21:43:26 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:26 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:28 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:28 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:28 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:28 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 36/827 (  4.35%) 已用: 1.7m 预计: 37.0m
+2026-04-17 21:43:28 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:28 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:28 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:28 - PDF-Extractor - WARNING - 文本过长 (4922)，截断到 3000
+2026-04-17 21:43:30 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:30 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:32 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:32 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:32 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:32 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 37/827 (  4.47%) 已用: 1.8m 预计: 37.4m
+2026-04-17 21:43:32 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:32 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:32 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:32 - PDF-Extractor - WARNING - 文本过长 (4979)，截断到 3000
+2026-04-17 21:43:35 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:35 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:35 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:35 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 38/827 (  4.59%) 已用: 1.8m 预计: 37.1m
+2026-04-17 21:43:35 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:35 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:35 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:35 - PDF-Extractor - WARNING - 文本过长 (4169)，截断到 3000
+2026-04-17 21:43:37 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:37 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:37 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:37 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 39/827 (  4.72%) 已用: 1.8m 预计: 36.8m
+2026-04-17 21:43:37 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:37 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:37 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:39 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:39 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:39 - PDF-Extractor - WARNING - 文本过长 (3027)，截断到 3000
+2026-04-17 21:43:41 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:41 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:41 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:41 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 40/827 (  4.84%) 已用: 1.9m 预计: 37.2m
+2026-04-17 21:43:41 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:41 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:41 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:43 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:43 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:43 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:43 - PDF-Extractor - INFO - 解析页面 |█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 41/827 (  4.96%) 已用: 1.9m 预计: 36.9m
+2026-04-17 21:43:43 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:43 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:43 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:43 - PDF-Extractor - WARNING - 文本过长 (4183)，截断到 3000
+2026-04-17 21:43:45 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:45 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:45 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:45 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 42/827 (  5.08%) 已用: 2.0m 预计: 36.6m
+2026-04-17 21:43:45 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:45 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:45 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:47 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:47 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:49 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:49 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:49 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:49 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 43/827 (  5.20%) 已用: 2.0m 预计: 36.9m
+2026-04-17 21:43:49 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:49 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:49 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:51 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:51 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:53 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:53 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:53 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:53 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 44/827 (  5.32%) 已用: 2.1m 预计: 37.2m
+2026-04-17 21:43:53 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:43:53 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:53 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:43:53 - PDF-Extractor - WARNING - 文本过长 (3415)，截断到 3000
+2026-04-17 21:43:55 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:55 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:57 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:57 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:57 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:43:57 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 45/827 (  5.44%) 已用: 2.2m 预计: 37.6m
+2026-04-17 21:43:57 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:57 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:57 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:57 - PDF-Extractor - WARNING - 文本过长 (3929)，截断到 3000
+2026-04-17 21:43:59 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:43:59 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:43:59 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:43:59 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 46/827 (  5.56%) 已用: 2.2m 预计: 37.3m
+2026-04-17 21:43:59 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:43:59 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:43:59 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:43:59 - PDF-Extractor - WARNING - 文本过长 (4177)，截断到 3000
+2026-04-17 21:44:01 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:01 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:01 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:44:01 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 47/827 (  5.68%) 已用: 2.2m 预计: 37.0m
+2026-04-17 21:44:01 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:01 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:01 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:03 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:03 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:05 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:05 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:05 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:05 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 48/827 (  5.80%) 已用: 2.3m 预计: 37.3m
+2026-04-17 21:44:05 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:05 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:05 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:07 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:07 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:09 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:09 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:09 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:09 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 49/827 (  5.93%) 已用: 2.4m 预计: 37.6m
+2026-04-17 21:44:09 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:09 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:09 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:09 - PDF-Extractor - WARNING - 文本过长 (3483)，截断到 3000
+2026-04-17 21:44:11 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:11 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:14 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:14 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:14 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:14 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 50/827 (  6.05%) 已用: 2.4m 预计: 37.9m
+2026-04-17 21:44:14 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:14 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:14 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:14 - PDF-Extractor - WARNING - 文本过长 (3935)，截断到 3000
+2026-04-17 21:44:16 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:16 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:18 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:18 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:18 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:18 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 51/827 (  6.17%) 已用: 2.5m 预计: 38.1m
+2026-04-17 21:44:18 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:18 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:18 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:18 - PDF-Extractor - WARNING - 文本过长 (4147)，截断到 3000
+2026-04-17 21:44:20 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:20 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:22 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:22 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:22 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:22 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 52/827 (  6.29%) 已用: 2.6m 预计: 38.3m
+2026-04-17 21:44:22 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:22 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:22 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:22 - PDF-Extractor - WARNING - 文本过长 (4639)，截断到 3000
+2026-04-17 21:44:24 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:24 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:26 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:26 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:26 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:26 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 53/827 (  6.41%) 已用: 2.6m 预计: 38.6m
+2026-04-17 21:44:26 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:26 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:26 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:26 - PDF-Extractor - WARNING - 文本过长 (4802)，截断到 3000
+2026-04-17 21:44:28 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:28 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:30 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:30 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:30 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:30 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 54/827 (  6.53%) 已用: 2.7m 预计: 38.8m
+2026-04-17 21:44:30 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:30 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:30 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:30 - PDF-Extractor - WARNING - 文本过长 (4926)，截断到 3000
+2026-04-17 21:44:32 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:32 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:34 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:34 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:34 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:34 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 55/827 (  6.65%) 已用: 2.8m 预计: 39.0m
+2026-04-17 21:44:34 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:44:34 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:34 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:44:34 - PDF-Extractor - WARNING - 文本过长 (5036)，截断到 3000
+2026-04-17 21:44:36 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:36 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:36 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:44:36 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 56/827 (  6.77%) 已用: 2.8m 预计: 38.7m
+2026-04-17 21:44:36 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:44:36 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:36 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:44:36 - PDF-Extractor - WARNING - 文本过长 (5415)，截断到 3000
+2026-04-17 21:44:38 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:38 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:38 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:44:38 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 57/827 (  6.89%) 已用: 2.8m 预计: 38.5m
+2026-04-17 21:44:38 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:44:38 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:38 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:44:38 - PDF-Extractor - WARNING - 文本过长 (5258)，截断到 3000
+2026-04-17 21:44:40 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:40 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:40 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:44:40 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 58/827 (  7.01%) 已用: 2.9m 预计: 38.2m
+2026-04-17 21:44:40 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:40 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:40 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:42 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:42 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:42 - PDF-Extractor - WARNING - 文本过长 (4011)，截断到 3000
+2026-04-17 21:44:44 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:44 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:44 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:44 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 59/827 (  7.13%) 已用: 2.9m 预计: 38.4m
+2026-04-17 21:44:44 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:44 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:44 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:46 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:46 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:46 - PDF-Extractor - WARNING - 文本过长 (3055)，截断到 3000
+2026-04-17 21:44:48 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:48 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:48 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:48 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 60/827 (  7.26%) 已用: 3.0m 预计: 38.6m
+2026-04-17 21:44:48 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:48 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:48 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:51 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:51 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:53 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:53 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:53 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:44:53 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 61/827 (  7.38%) 已用: 3.1m 预计: 38.8m
+2026-04-17 21:44:53 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:44:53 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:53 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:44:53 - PDF-Extractor - WARNING - 文本过长 (4398)，截断到 3000
+2026-04-17 21:44:55 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:55 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:55 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:44:55 - PDF-Extractor - INFO - 解析页面 |██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 62/827 (  7.50%) 已用: 3.1m 预计: 38.5m
+2026-04-17 21:44:55 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:44:55 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:55 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:44:55 - PDF-Extractor - WARNING - 文本过长 (4371)，截断到 3000
+2026-04-17 21:44:57 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:57 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:57 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:44:57 - PDF-Extractor - INFO - 解析页面 |███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 63/827 (  7.62%) 已用: 3.2m 预计: 38.3m
+2026-04-17 21:44:57 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:44:57 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:44:57 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:44:59 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:44:59 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:44:59 - PDF-Extractor - WARNING - 文本过长 (3890)，截断到 3000
+2026-04-17 21:45:01 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:45:01 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:45:01 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:45:01 - PDF-Extractor - INFO - 解析页面 |███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 64/827 (  7.74%) 已用: 3.2m 预计: 38.4m
+2026-04-17 21:45:01 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:45:01 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:45:01 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:45:03 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:45:03 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:45:05 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:45:05 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:45:05 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:45:05 - PDF-Extractor - INFO - 解析页面 |███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 65/827 (  7.86%) 已用: 3.3m 预计: 38.6m
+2026-04-17 21:45:05 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:45:05 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:45:05 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:45:05 - PDF-Extractor - WARNING - 文本过长 (3137)，截断到 3000
+2026-04-17 21:45:07 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:45:07 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:45:09 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:45:09 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:45:09 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/2个块成功
+2026-04-17 21:45:09 - PDF-Extractor - INFO - 解析页面 |███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 66/827 (  7.98%) 已用: 3.4m 预计: 38.7m
+2026-04-17 21:45:09 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:45:09 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:45:09 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:45:11 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:45:11 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:45:11 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:45:11 - PDF-Extractor - INFO - 解析页面 |███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 67/827 (  8.10%) 已用: 3.4m 预计: 38.5m
+2026-04-17 21:45:11 - PDF-Extractor - INFO - 
+开始Ollama解析: 1个块
+2026-04-17 21:45:11 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:45:11 - PDF-Extractor - INFO - 
+批次 1/1 (1个块)
+2026-04-17 21:45:11 - PDF-Extractor - WARNING - 文本过长 (4309)，截断到 3000
+2026-04-17 21:45:13 - PDF-Extractor - WARNING - Ollama错误: 404
+2026-04-17 21:45:13 - PDF-Extractor - WARNING - Ollama未返回结果
+2026-04-17 21:45:13 - PDF-Extractor - INFO - 
+✅ 解析完成: 0/1个块成功
+2026-04-17 21:45:13 - PDF-Extractor - INFO - 解析页面 |███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 68/827 (  8.22%) 已用: 3.4m 预计: 38.3m
+2026-04-17 21:45:13 - PDF-Extractor - INFO - 
+开始Ollama解析: 2个块
+2026-04-17 21:45:13 - PDF-Extractor - INFO - 模型: auto | 温度: 0.1 | 超时: 120秒
+2026-04-17 21:45:13 - PDF-Extractor - INFO - 
+批次 1/1 (2个块)
+2026-04-17 21:45:15 - PDF-Extractor - WARNING - ⚠️  用户中断
+2026-04-17 21:45:15 - PDF-Extractor - WARNING - 
+⚠️  用户中断程序（已运行 3.5m）
+2026-04-17 21:45:15 - PDF-Extractor - INFO - 💾 进度已保存到临时文件，可稍后恢复处理
+2026-04-17 21:45:15 - PDF-Extractor - INFO -    恢复命令: python main.py --resume
