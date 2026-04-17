@@ -26,7 +26,8 @@ def check_ollama():
     
     try:
         print(f"\n检查Ollama服务...")
-        response = requests.get(f"{OLLAMA_URL.rsplit('/', 1)[0]}/tags", timeout=5)
+        base_url = OLLAMA_URL.rsplit('/api/', 1)[0] + "/api"  # 获取基础 URL
+        response = requests.get(f"{base_url}/tags", timeout=5)
         
         if response.status_code == 200:
             models = response.json().get("models", [])

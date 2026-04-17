@@ -34,7 +34,7 @@ MIN_VULN_TEXT_LENGTH = 30
 MAX_VULN_TEXT_LENGTH = 15000
 
 # ==================== Ollama 配置 ====================
-OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
 
 # 模型配置 - 直接指定而非 "auto"
 # 选项: "qwen:7b" 或 "qwen:14b"
